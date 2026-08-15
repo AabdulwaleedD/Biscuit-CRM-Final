@@ -1,0 +1,14 @@
+BISCUIT CRM - QR CAMERA SCANNER
+
+The Product Scanner uses Streamlit camera_input plus OpenCV QRCodeDetector.
+
+FIRST TIME:
+1. Run SETUP_SCANNER.bat (preferably from Anaconda Prompt).
+2. Wait for opencv-python-headless and numpy to install.
+3. Run RUN_CRM.bat, or use: streamlit run app.py
+
+TEST:
+Product Scanner -> Scan QR -> allow camera access -> scan a printed QR.
+
+The scanner identifies the Product ID. It does not deduct stock during a simple scan.
+Warehouse Release, Sales deduction, and Goods Receiving remain transaction-controlled workflows.
