@@ -1,0 +1,1172 @@
+Movement ID,Date,Product ID,Product Name,Movement Type,Quantity,Reference,Source/Destination,Recorded By,Notes
+STOCK-000001,2026-06-15,PROD-000001,Classic Cream,Opening Stock,743.0,OPEN-PROD-000001,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000002,2026-07-12,PROD-000001,Classic Cream,Stock Received,754.0,GRN-000002,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000003,2026-06-15,PROD-000002,Coconut Crunch,Opening Stock,1548.0,OPEN-PROD-000002,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000004,2026-07-30,PROD-000002,Coconut Crunch,Stock Received,310.0,GRN-000004,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000005,2026-06-15,PROD-000003,Golden Crunch,Opening Stock,1730.0,OPEN-PROD-000003,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000006,2026-07-08,PROD-000003,Golden Crunch,Stock Received,961.0,GRN-000006,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000007,2026-06-15,PROD-000004,Cocoa Sandwich,Opening Stock,1621.0,OPEN-PROD-000004,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000008,2026-07-07,PROD-000004,Cocoa Sandwich,Stock Received,1105.0,GRN-000008,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000009,2026-06-15,PROD-000005,Classic Crackers,Opening Stock,1403.0,OPEN-PROD-000005,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000010,2026-08-13,PROD-000005,Classic Crackers,Stock Received,591.0,GRN-000010,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000011,2026-06-15,PROD-000006,Caramel Cream,Opening Stock,1757.0,OPEN-PROD-000006,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000012,2026-08-06,PROD-000006,Caramel Cream,Stock Received,265.0,GRN-000012,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000013,2026-06-15,PROD-000007,Milk Crunch,Opening Stock,1088.0,OPEN-PROD-000007,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000014,2026-07-16,PROD-000007,Milk Crunch,Stock Received,300.0,GRN-000014,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000015,2026-06-15,PROD-000008,Classic Crackers,Opening Stock,523.0,OPEN-PROD-000008,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000016,2026-07-01,PROD-000008,Classic Crackers,Stock Received,1104.0,GRN-000016,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000017,2026-06-15,PROD-000009,Vanilla Cream,Opening Stock,1143.0,OPEN-PROD-000009,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000018,2026-07-19,PROD-000009,Vanilla Cream,Stock Received,530.0,GRN-000018,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000019,2026-06-15,PROD-000010,Milk Crunch,Opening Stock,1015.0,OPEN-PROD-000010,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000020,2026-07-22,PROD-000010,Milk Crunch,Stock Received,812.0,GRN-000020,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000021,2026-06-15,PROD-000011,Golden Crunch,Opening Stock,2148.0,OPEN-PROD-000011,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000022,2026-07-12,PROD-000011,Golden Crunch,Stock Received,870.0,GRN-000022,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000023,2026-06-15,PROD-000012,Premium Wafer,Opening Stock,1806.0,OPEN-PROD-000012,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000024,2026-07-23,PROD-000012,Premium Wafer,Stock Received,256.0,GRN-000024,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000025,2026-06-15,PROD-000013,Cocoa Sandwich,Opening Stock,683.0,OPEN-PROD-000013,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000026,2026-07-26,PROD-000013,Cocoa Sandwich,Stock Received,698.0,GRN-000026,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000027,2026-06-15,PROD-000014,Classic Crackers,Opening Stock,1436.0,OPEN-PROD-000014,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000028,2026-07-03,PROD-000014,Classic Crackers,Stock Received,388.0,GRN-000028,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000029,2026-06-15,PROD-000015,Butter Delight,Opening Stock,1941.0,OPEN-PROD-000015,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000030,2026-08-12,PROD-000015,Butter Delight,Stock Received,732.0,GRN-000030,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000031,2026-06-15,PROD-000016,Rich Chocolate,Opening Stock,1955.0,OPEN-PROD-000016,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000032,2026-07-21,PROD-000016,Rich Chocolate,Stock Received,855.0,GRN-000032,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000033,2026-06-15,PROD-000017,Rich Chocolate,Opening Stock,1444.0,OPEN-PROD-000017,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000034,2026-08-08,PROD-000017,Rich Chocolate,Stock Received,964.0,GRN-000034,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000035,2026-06-15,PROD-000018,Golden Crunch,Opening Stock,1316.0,OPEN-PROD-000018,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000036,2026-08-06,PROD-000018,Golden Crunch,Stock Received,1120.0,GRN-000036,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000037,2026-06-15,PROD-000019,Classic Crackers,Opening Stock,1371.0,OPEN-PROD-000019,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000038,2026-07-06,PROD-000019,Classic Crackers,Stock Received,1137.0,GRN-000038,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000039,2026-06-15,PROD-000020,Vanilla Cream,Opening Stock,1505.0,OPEN-PROD-000020,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000040,2026-07-11,PROD-000020,Vanilla Cream,Stock Received,915.0,GRN-000040,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000041,2026-06-15,PROD-000021,Premium Wafer,Opening Stock,1029.0,OPEN-PROD-000021,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000042,2026-07-08,PROD-000021,Premium Wafer,Stock Received,960.0,GRN-000042,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000043,2026-06-15,PROD-000022,Family Pack,Opening Stock,1481.0,OPEN-PROD-000022,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000044,2026-07-11,PROD-000022,Family Pack,Stock Received,1150.0,GRN-000044,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000045,2026-06-15,PROD-000023,Golden Crunch,Opening Stock,2148.0,OPEN-PROD-000023,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000046,2026-07-08,PROD-000023,Golden Crunch,Stock Received,151.0,GRN-000046,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000047,2026-06-15,PROD-000024,Family Pack,Opening Stock,959.0,OPEN-PROD-000024,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000048,2026-08-10,PROD-000024,Family Pack,Stock Received,364.0,GRN-000048,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000049,2026-06-15,PROD-000025,Coconut Crunch,Opening Stock,1943.0,OPEN-PROD-000025,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000050,2026-07-02,PROD-000025,Coconut Crunch,Stock Received,1171.0,GRN-000050,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000051,2026-06-15,PROD-000026,Vanilla Cream,Opening Stock,710.0,OPEN-PROD-000026,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000052,2026-07-14,PROD-000026,Vanilla Cream,Stock Received,979.0,GRN-000052,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000053,2026-06-15,PROD-000027,Classic Crackers,Opening Stock,791.0,OPEN-PROD-000027,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000054,2026-07-30,PROD-000027,Classic Crackers,Stock Received,1087.0,GRN-000054,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000055,2026-06-15,PROD-000028,Golden Crunch,Opening Stock,749.0,OPEN-PROD-000028,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000056,2026-07-01,PROD-000028,Golden Crunch,Stock Received,1035.0,GRN-000056,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000057,2026-06-15,PROD-000029,Cocoa Sandwich,Opening Stock,1461.0,OPEN-PROD-000029,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000058,2026-07-09,PROD-000029,Cocoa Sandwich,Stock Received,614.0,GRN-000058,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000059,2026-06-15,PROD-000030,Golden Crunch,Opening Stock,1323.0,OPEN-PROD-000030,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000060,2026-07-09,PROD-000030,Golden Crunch,Stock Received,730.0,GRN-000060,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000061,2026-06-15,PROD-000031,Classic Crackers,Opening Stock,2137.0,OPEN-PROD-000031,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000062,2026-06-30,PROD-000031,Classic Crackers,Stock Received,1127.0,GRN-000062,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000063,2026-06-15,PROD-000032,Rich Chocolate,Opening Stock,1480.0,OPEN-PROD-000032,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000064,2026-07-17,PROD-000032,Rich Chocolate,Stock Received,923.0,GRN-000064,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000065,2026-06-15,PROD-000033,Coconut Crunch,Opening Stock,914.0,OPEN-PROD-000033,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000066,2026-07-27,PROD-000033,Coconut Crunch,Stock Received,702.0,GRN-000066,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000067,2026-06-15,PROD-000034,Classic Cream,Opening Stock,518.0,OPEN-PROD-000034,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000068,2026-08-04,PROD-000034,Classic Cream,Stock Received,167.0,GRN-000068,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000069,2026-06-15,PROD-000035,Milk Crunch,Opening Stock,1842.0,OPEN-PROD-000035,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000070,2026-07-11,PROD-000035,Milk Crunch,Stock Received,1038.0,GRN-000070,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000071,2026-06-15,PROD-000036,Cocoa Sandwich,Opening Stock,1502.0,OPEN-PROD-000036,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000072,2026-08-01,PROD-000036,Cocoa Sandwich,Stock Received,837.0,GRN-000072,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000073,2026-06-15,PROD-000037,Butter Delight,Opening Stock,1032.0,OPEN-PROD-000037,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000074,2026-07-15,PROD-000037,Butter Delight,Stock Received,1094.0,GRN-000074,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000075,2026-06-15,PROD-000038,Caramel Cream,Opening Stock,1547.0,OPEN-PROD-000038,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000076,2026-07-17,PROD-000038,Caramel Cream,Stock Received,1118.0,GRN-000076,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000077,2026-06-15,PROD-000039,Milk Crunch,Opening Stock,1642.0,OPEN-PROD-000039,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000078,2026-07-26,PROD-000039,Milk Crunch,Stock Received,168.0,GRN-000078,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000079,2026-06-15,PROD-000040,Strawberry Cream,Opening Stock,1148.0,OPEN-PROD-000040,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000080,2026-08-07,PROD-000040,Strawberry Cream,Stock Received,1037.0,GRN-000080,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000081,2026-06-15,PROD-000041,Caramel Cream,Opening Stock,1397.0,OPEN-PROD-000041,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000082,2026-07-28,PROD-000041,Caramel Cream,Stock Received,1155.0,GRN-000082,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000083,2026-06-15,PROD-000042,Cocoa Sandwich,Opening Stock,1427.0,OPEN-PROD-000042,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000084,2026-07-17,PROD-000042,Cocoa Sandwich,Stock Received,474.0,GRN-000084,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000085,2026-06-15,PROD-000043,Vanilla Cream,Opening Stock,1990.0,OPEN-PROD-000043,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000086,2026-08-09,PROD-000043,Vanilla Cream,Stock Received,1081.0,GRN-000086,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000087,2026-06-15,PROD-000044,Classic Crackers,Opening Stock,1828.0,OPEN-PROD-000044,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000088,2026-07-13,PROD-000044,Classic Crackers,Stock Received,645.0,GRN-000088,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000089,2026-06-15,PROD-000045,Caramel Cream,Opening Stock,1258.0,OPEN-PROD-000045,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000090,2026-08-01,PROD-000045,Caramel Cream,Stock Received,297.0,GRN-000090,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000091,2026-06-15,PROD-000046,Classic Cream,Opening Stock,2030.0,OPEN-PROD-000046,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000092,2026-08-04,PROD-000046,Classic Cream,Stock Received,942.0,GRN-000092,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000093,2026-06-15,PROD-000047,Caramel Cream,Opening Stock,1420.0,OPEN-PROD-000047,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000094,2026-08-08,PROD-000047,Caramel Cream,Stock Received,128.0,GRN-000094,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000095,2026-06-15,PROD-000048,Caramel Cream,Opening Stock,500.0,OPEN-PROD-000048,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000096,2026-07-07,PROD-000048,Caramel Cream,Stock Received,1024.0,GRN-000096,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000097,2026-06-15,PROD-000049,Caramel Cream,Opening Stock,1619.0,OPEN-PROD-000049,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000098,2026-07-05,PROD-000049,Caramel Cream,Stock Received,270.0,GRN-000098,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000099,2026-06-15,PROD-000050,Caramel Cream,Opening Stock,2125.0,OPEN-PROD-000050,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000100,2026-07-29,PROD-000050,Caramel Cream,Stock Received,507.0,GRN-000100,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000101,2026-06-15,PROD-000051,Classic Cream,Opening Stock,747.0,OPEN-PROD-000051,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000102,2026-07-10,PROD-000051,Classic Cream,Stock Received,191.0,GRN-000102,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000103,2026-06-15,PROD-000052,Caramel Cream,Opening Stock,1049.0,OPEN-PROD-000052,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000104,2026-08-04,PROD-000052,Caramel Cream,Stock Received,831.0,GRN-000104,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000105,2026-06-15,PROD-000053,Honey Crunch,Opening Stock,510.0,OPEN-PROD-000053,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000106,2026-07-02,PROD-000053,Honey Crunch,Stock Received,741.0,GRN-000106,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000107,2026-06-15,PROD-000054,Coconut Crunch,Opening Stock,1694.0,OPEN-PROD-000054,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000108,2026-06-30,PROD-000054,Coconut Crunch,Stock Received,1107.0,GRN-000108,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000109,2026-06-15,PROD-000055,Coconut Crunch,Opening Stock,1975.0,OPEN-PROD-000055,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000110,2026-07-10,PROD-000055,Coconut Crunch,Stock Received,376.0,GRN-000110,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000111,2026-06-15,PROD-000056,Chocolate Delight,Opening Stock,956.0,OPEN-PROD-000056,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000112,2026-07-07,PROD-000056,Chocolate Delight,Stock Received,1068.0,GRN-000112,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000113,2026-06-15,PROD-000057,Family Pack,Opening Stock,768.0,OPEN-PROD-000057,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000114,2026-07-26,PROD-000057,Family Pack,Stock Received,1133.0,GRN-000114,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000115,2026-06-15,PROD-000058,Family Pack,Opening Stock,672.0,OPEN-PROD-000058,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000116,2026-07-02,PROD-000058,Family Pack,Stock Received,955.0,GRN-000116,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000117,2026-06-15,PROD-000059,Vanilla Cream,Opening Stock,827.0,OPEN-PROD-000059,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000118,2026-07-07,PROD-000059,Vanilla Cream,Stock Received,377.0,GRN-000118,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000119,2026-06-15,PROD-000060,Honey Crunch,Opening Stock,1126.0,OPEN-PROD-000060,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000120,2026-07-18,PROD-000060,Honey Crunch,Stock Received,1139.0,GRN-000120,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000121,2026-06-15,PROD-000061,Caramel Cream,Opening Stock,1299.0,OPEN-PROD-000061,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000122,2026-07-11,PROD-000061,Caramel Cream,Stock Received,404.0,GRN-000122,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000123,2026-06-15,PROD-000062,Cocoa Sandwich,Opening Stock,2152.0,OPEN-PROD-000062,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000124,2026-07-20,PROD-000062,Cocoa Sandwich,Stock Received,502.0,GRN-000124,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000125,2026-06-15,PROD-000063,Caramel Cream,Opening Stock,528.0,OPEN-PROD-000063,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000126,2026-07-20,PROD-000063,Caramel Cream,Stock Received,317.0,GRN-000126,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000127,2026-06-15,PROD-000064,Classic Crackers,Opening Stock,650.0,OPEN-PROD-000064,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000128,2026-07-22,PROD-000064,Classic Crackers,Stock Received,205.0,GRN-000128,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000129,2026-06-15,PROD-000065,Classic Cream,Opening Stock,1823.0,OPEN-PROD-000065,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000130,2026-08-12,PROD-000065,Classic Cream,Stock Received,823.0,GRN-000130,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000131,2026-06-15,PROD-000066,Cocoa Sandwich,Opening Stock,552.0,OPEN-PROD-000066,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000132,2026-07-14,PROD-000066,Cocoa Sandwich,Stock Received,1145.0,GRN-000132,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000133,2026-06-15,PROD-000067,Classic Cream,Opening Stock,1171.0,OPEN-PROD-000067,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000134,2026-07-16,PROD-000067,Classic Cream,Stock Received,721.0,GRN-000134,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000135,2026-06-15,PROD-000068,Butter Delight,Opening Stock,1167.0,OPEN-PROD-000068,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000136,2026-07-13,PROD-000068,Butter Delight,Stock Received,348.0,GRN-000136,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000137,2026-06-15,PROD-000069,Family Pack,Opening Stock,1455.0,OPEN-PROD-000069,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000138,2026-08-04,PROD-000069,Family Pack,Stock Received,449.0,GRN-000138,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000139,2026-06-15,PROD-000070,Strawberry Cream,Opening Stock,1710.0,OPEN-PROD-000070,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000140,2026-07-31,PROD-000070,Strawberry Cream,Stock Received,1164.0,GRN-000140,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000141,2026-06-15,PROD-000071,Caramel Cream,Opening Stock,1388.0,OPEN-PROD-000071,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000142,2026-07-15,PROD-000071,Caramel Cream,Stock Received,788.0,GRN-000142,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000143,2026-06-15,PROD-000072,Rich Chocolate,Opening Stock,1725.0,OPEN-PROD-000072,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000144,2026-07-01,PROD-000072,Rich Chocolate,Stock Received,577.0,GRN-000144,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000145,2026-06-15,PROD-000073,Vanilla Cream,Opening Stock,1955.0,OPEN-PROD-000073,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000146,2026-07-09,PROD-000073,Vanilla Cream,Stock Received,242.0,GRN-000146,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000147,2026-06-15,PROD-000074,Premium Wafer,Opening Stock,1317.0,OPEN-PROD-000074,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000148,2026-08-01,PROD-000074,Premium Wafer,Stock Received,169.0,GRN-000148,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000149,2026-06-15,PROD-000075,Vanilla Cream,Opening Stock,1825.0,OPEN-PROD-000075,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000150,2026-08-11,PROD-000075,Vanilla Cream,Stock Received,455.0,GRN-000150,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000151,2026-06-15,PROD-000076,Golden Crunch,Opening Stock,1827.0,OPEN-PROD-000076,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000152,2026-07-16,PROD-000076,Golden Crunch,Stock Received,198.0,GRN-000152,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000153,2026-06-15,PROD-000077,Caramel Cream,Opening Stock,2045.0,OPEN-PROD-000077,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000154,2026-07-14,PROD-000077,Caramel Cream,Stock Received,486.0,GRN-000154,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000155,2026-06-15,PROD-000078,Honey Crunch,Opening Stock,1956.0,OPEN-PROD-000078,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000156,2026-08-05,PROD-000078,Honey Crunch,Stock Received,141.0,GRN-000156,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000157,2026-06-15,PROD-000079,Butter Delight,Opening Stock,1822.0,OPEN-PROD-000079,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000158,2026-07-31,PROD-000079,Butter Delight,Stock Received,1185.0,GRN-000158,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000159,2026-06-15,PROD-000080,Family Pack,Opening Stock,2108.0,OPEN-PROD-000080,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000160,2026-08-05,PROD-000080,Family Pack,Stock Received,1158.0,GRN-000160,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000161,2026-06-15,PROD-000081,Milk Crunch,Opening Stock,828.0,OPEN-PROD-000081,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000162,2026-07-20,PROD-000081,Milk Crunch,Stock Received,480.0,GRN-000162,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000163,2026-06-15,PROD-000082,Rich Chocolate,Opening Stock,1058.0,OPEN-PROD-000082,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000164,2026-07-10,PROD-000082,Rich Chocolate,Stock Received,971.0,GRN-000164,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000165,2026-06-15,PROD-000083,Caramel Cream,Opening Stock,1348.0,OPEN-PROD-000083,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000166,2026-07-20,PROD-000083,Caramel Cream,Stock Received,261.0,GRN-000166,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000167,2026-06-15,PROD-000084,Golden Crunch,Opening Stock,1124.0,OPEN-PROD-000084,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000168,2026-07-22,PROD-000084,Golden Crunch,Stock Received,483.0,GRN-000168,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000169,2026-06-15,PROD-000085,Cocoa Sandwich,Opening Stock,857.0,OPEN-PROD-000085,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000170,2026-07-15,PROD-000085,Cocoa Sandwich,Stock Received,639.0,GRN-000170,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000171,2026-06-15,PROD-000086,Coconut Crunch,Opening Stock,1519.0,OPEN-PROD-000086,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000172,2026-07-26,PROD-000086,Coconut Crunch,Stock Received,951.0,GRN-000172,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000173,2026-06-15,PROD-000087,Family Pack,Opening Stock,1457.0,OPEN-PROD-000087,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000174,2026-07-24,PROD-000087,Family Pack,Stock Received,462.0,GRN-000174,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000175,2026-06-15,PROD-000088,Milk Crunch,Opening Stock,1563.0,OPEN-PROD-000088,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000176,2026-07-16,PROD-000088,Milk Crunch,Stock Received,1087.0,GRN-000176,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000177,2026-06-15,PROD-000089,Chocolate Delight,Opening Stock,745.0,OPEN-PROD-000089,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000178,2026-07-11,PROD-000089,Chocolate Delight,Stock Received,1179.0,GRN-000178,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000179,2026-06-15,PROD-000090,Cocoa Sandwich,Opening Stock,2131.0,OPEN-PROD-000090,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000180,2026-08-07,PROD-000090,Cocoa Sandwich,Stock Received,660.0,GRN-000180,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000181,2026-06-15,PROD-000091,Premium Wafer,Opening Stock,938.0,OPEN-PROD-000091,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000182,2026-08-13,PROD-000091,Premium Wafer,Stock Received,573.0,GRN-000182,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000183,2026-06-15,PROD-000092,Vanilla Cream,Opening Stock,690.0,OPEN-PROD-000092,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000184,2026-07-03,PROD-000092,Vanilla Cream,Stock Received,1030.0,GRN-000184,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000185,2026-06-15,PROD-000093,Caramel Cream,Opening Stock,1176.0,OPEN-PROD-000093,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000186,2026-07-10,PROD-000093,Caramel Cream,Stock Received,935.0,GRN-000186,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000187,2026-06-15,PROD-000094,Family Pack,Opening Stock,2104.0,OPEN-PROD-000094,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000188,2026-08-12,PROD-000094,Family Pack,Stock Received,473.0,GRN-000188,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000189,2026-06-15,PROD-000095,Milk Crunch,Opening Stock,1220.0,OPEN-PROD-000095,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000190,2026-07-22,PROD-000095,Milk Crunch,Stock Received,421.0,GRN-000190,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000191,2026-06-15,PROD-000096,Butter Delight,Opening Stock,1650.0,OPEN-PROD-000096,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000192,2026-08-06,PROD-000096,Butter Delight,Stock Received,543.0,GRN-000192,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000193,2026-06-15,PROD-000097,Family Pack,Opening Stock,1771.0,OPEN-PROD-000097,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000194,2026-07-09,PROD-000097,Family Pack,Stock Received,674.0,GRN-000194,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000195,2026-06-15,PROD-000098,Chocolate Delight,Opening Stock,2038.0,OPEN-PROD-000098,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000196,2026-07-08,PROD-000098,Chocolate Delight,Stock Received,539.0,GRN-000196,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000197,2026-06-15,PROD-000099,Honey Crunch,Opening Stock,1103.0,OPEN-PROD-000099,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000198,2026-07-02,PROD-000099,Honey Crunch,Stock Received,649.0,GRN-000198,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000199,2026-06-15,PROD-000100,Cocoa Sandwich,Opening Stock,1638.0,OPEN-PROD-000100,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000200,2026-08-07,PROD-000100,Cocoa Sandwich,Stock Received,371.0,GRN-000200,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000201,2026-06-15,PROD-000101,Coconut Crunch,Opening Stock,2100.0,OPEN-PROD-000101,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000202,2026-08-07,PROD-000101,Coconut Crunch,Stock Received,640.0,GRN-000202,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000203,2026-06-15,PROD-000102,Chocolate Delight,Opening Stock,1393.0,OPEN-PROD-000102,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000204,2026-08-07,PROD-000102,Chocolate Delight,Stock Received,450.0,GRN-000204,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000205,2026-06-15,PROD-000103,Strawberry Cream,Opening Stock,1901.0,OPEN-PROD-000103,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000206,2026-07-22,PROD-000103,Strawberry Cream,Stock Received,223.0,GRN-000206,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000207,2026-06-15,PROD-000104,Family Pack,Opening Stock,1979.0,OPEN-PROD-000104,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000208,2026-07-03,PROD-000104,Family Pack,Stock Received,479.0,GRN-000208,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000209,2026-06-15,PROD-000105,Coconut Crunch,Opening Stock,1790.0,OPEN-PROD-000105,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000210,2026-07-12,PROD-000105,Coconut Crunch,Stock Received,317.0,GRN-000210,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000211,2026-06-15,PROD-000106,Coconut Crunch,Opening Stock,1142.0,OPEN-PROD-000106,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000212,2026-07-07,PROD-000106,Coconut Crunch,Stock Received,666.0,GRN-000212,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000213,2026-06-15,PROD-000107,Cocoa Sandwich,Opening Stock,630.0,OPEN-PROD-000107,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000214,2026-07-24,PROD-000107,Cocoa Sandwich,Stock Received,696.0,GRN-000214,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000215,2026-06-15,PROD-000108,Butter Delight,Opening Stock,830.0,OPEN-PROD-000108,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000216,2026-07-28,PROD-000108,Butter Delight,Stock Received,634.0,GRN-000216,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000217,2026-06-15,PROD-000109,Milk Crunch,Opening Stock,628.0,OPEN-PROD-000109,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000218,2026-07-18,PROD-000109,Milk Crunch,Stock Received,128.0,GRN-000218,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000219,2026-06-15,PROD-000110,Cocoa Sandwich,Opening Stock,2090.0,OPEN-PROD-000110,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000220,2026-07-18,PROD-000110,Cocoa Sandwich,Stock Received,626.0,GRN-000220,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000221,2026-06-15,PROD-000111,Premium Wafer,Opening Stock,531.0,OPEN-PROD-000111,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000222,2026-08-07,PROD-000111,Premium Wafer,Stock Received,217.0,GRN-000222,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000223,2026-06-15,PROD-000112,Vanilla Cream,Opening Stock,981.0,OPEN-PROD-000112,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000224,2026-07-25,PROD-000112,Vanilla Cream,Stock Received,147.0,GRN-000224,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000225,2026-06-15,PROD-000113,Classic Crackers,Opening Stock,751.0,OPEN-PROD-000113,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000226,2026-07-01,PROD-000113,Classic Crackers,Stock Received,292.0,GRN-000226,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000227,2026-06-15,PROD-000114,Premium Wafer,Opening Stock,1649.0,OPEN-PROD-000114,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000228,2026-07-24,PROD-000114,Premium Wafer,Stock Received,817.0,GRN-000228,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000229,2026-06-15,PROD-000115,Butter Delight,Opening Stock,2096.0,OPEN-PROD-000115,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000230,2026-07-06,PROD-000115,Butter Delight,Stock Received,1033.0,GRN-000230,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000231,2026-06-15,PROD-000116,Golden Crunch,Opening Stock,1781.0,OPEN-PROD-000116,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000232,2026-07-19,PROD-000116,Golden Crunch,Stock Received,177.0,GRN-000232,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000233,2026-06-15,PROD-000117,Rich Chocolate,Opening Stock,1147.0,OPEN-PROD-000117,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000234,2026-07-06,PROD-000117,Rich Chocolate,Stock Received,541.0,GRN-000234,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000235,2026-06-15,PROD-000118,Caramel Cream,Opening Stock,1447.0,OPEN-PROD-000118,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000236,2026-07-01,PROD-000118,Caramel Cream,Stock Received,972.0,GRN-000236,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000237,2026-06-15,PROD-000119,Strawberry Cream,Opening Stock,744.0,OPEN-PROD-000119,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000238,2026-07-12,PROD-000119,Strawberry Cream,Stock Received,866.0,GRN-000238,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000239,2026-06-15,PROD-000120,Honey Crunch,Opening Stock,1895.0,OPEN-PROD-000120,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000240,2026-07-20,PROD-000120,Honey Crunch,Stock Received,615.0,GRN-000240,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000241,2026-06-15,PROD-000121,Caramel Cream,Opening Stock,1097.0,OPEN-PROD-000121,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000242,2026-08-10,PROD-000121,Caramel Cream,Stock Received,829.0,GRN-000242,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000243,2026-06-15,PROD-000122,Chocolate Delight,Opening Stock,2006.0,OPEN-PROD-000122,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000244,2026-08-12,PROD-000122,Chocolate Delight,Stock Received,994.0,GRN-000244,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000245,2026-06-15,PROD-000123,Cocoa Sandwich,Opening Stock,1076.0,OPEN-PROD-000123,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000246,2026-07-26,PROD-000123,Cocoa Sandwich,Stock Received,776.0,GRN-000246,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000247,2026-06-15,PROD-000124,Classic Cream,Opening Stock,1989.0,OPEN-PROD-000124,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000248,2026-07-25,PROD-000124,Classic Cream,Stock Received,350.0,GRN-000248,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000249,2026-06-15,PROD-000125,Vanilla Cream,Opening Stock,2072.0,OPEN-PROD-000125,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000250,2026-07-24,PROD-000125,Vanilla Cream,Stock Received,953.0,GRN-000250,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000251,2026-06-15,PROD-000126,Caramel Cream,Opening Stock,1699.0,OPEN-PROD-000126,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000252,2026-07-10,PROD-000126,Caramel Cream,Stock Received,141.0,GRN-000252,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000253,2026-06-15,PROD-000127,Strawberry Cream,Opening Stock,1201.0,OPEN-PROD-000127,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000254,2026-07-09,PROD-000127,Strawberry Cream,Stock Received,504.0,GRN-000254,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000255,2026-06-15,PROD-000128,Butter Delight,Opening Stock,614.0,OPEN-PROD-000128,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000256,2026-08-03,PROD-000128,Butter Delight,Stock Received,330.0,GRN-000256,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000257,2026-06-15,PROD-000129,Vanilla Cream,Opening Stock,1767.0,OPEN-PROD-000129,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000258,2026-08-06,PROD-000129,Vanilla Cream,Stock Received,351.0,GRN-000258,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000259,2026-06-15,PROD-000130,Golden Crunch,Opening Stock,576.0,OPEN-PROD-000130,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000260,2026-07-11,PROD-000130,Golden Crunch,Stock Received,357.0,GRN-000260,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000261,2026-06-15,PROD-000131,Cocoa Sandwich,Opening Stock,1225.0,OPEN-PROD-000131,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000262,2026-08-12,PROD-000131,Cocoa Sandwich,Stock Received,718.0,GRN-000262,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000263,2026-06-15,PROD-000132,Golden Crunch,Opening Stock,1369.0,OPEN-PROD-000132,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000264,2026-07-22,PROD-000132,Golden Crunch,Stock Received,358.0,GRN-000264,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000265,2026-06-15,PROD-000133,Cocoa Sandwich,Opening Stock,1350.0,OPEN-PROD-000133,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000266,2026-07-20,PROD-000133,Cocoa Sandwich,Stock Received,886.0,GRN-000266,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000267,2026-06-15,PROD-000134,Golden Crunch,Opening Stock,990.0,OPEN-PROD-000134,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000268,2026-07-02,PROD-000134,Golden Crunch,Stock Received,962.0,GRN-000268,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000269,2026-06-15,PROD-000135,Coconut Crunch,Opening Stock,949.0,OPEN-PROD-000135,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000270,2026-08-02,PROD-000135,Coconut Crunch,Stock Received,356.0,GRN-000270,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000271,2026-06-15,PROD-000136,Classic Crackers,Opening Stock,1611.0,OPEN-PROD-000136,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000272,2026-07-02,PROD-000136,Classic Crackers,Stock Received,158.0,GRN-000272,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000273,2026-06-15,PROD-000137,Honey Crunch,Opening Stock,1968.0,OPEN-PROD-000137,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000274,2026-07-28,PROD-000137,Honey Crunch,Stock Received,912.0,GRN-000274,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000275,2026-06-15,PROD-000138,Classic Cream,Opening Stock,2110.0,OPEN-PROD-000138,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000276,2026-07-30,PROD-000138,Classic Cream,Stock Received,402.0,GRN-000276,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000277,2026-06-15,PROD-000139,Caramel Cream,Opening Stock,547.0,OPEN-PROD-000139,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000278,2026-07-27,PROD-000139,Caramel Cream,Stock Received,133.0,GRN-000278,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000279,2026-06-15,PROD-000140,Premium Wafer,Opening Stock,1608.0,OPEN-PROD-000140,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000280,2026-07-18,PROD-000140,Premium Wafer,Stock Received,1080.0,GRN-000280,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000281,2026-06-15,PROD-000141,Classic Crackers,Opening Stock,1040.0,OPEN-PROD-000141,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000282,2026-08-05,PROD-000141,Classic Crackers,Stock Received,744.0,GRN-000282,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000283,2026-06-15,PROD-000142,Coconut Crunch,Opening Stock,1783.0,OPEN-PROD-000142,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000284,2026-08-02,PROD-000142,Coconut Crunch,Stock Received,283.0,GRN-000284,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000285,2026-06-15,PROD-000143,Cocoa Sandwich,Opening Stock,1632.0,OPEN-PROD-000143,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000286,2026-07-03,PROD-000143,Cocoa Sandwich,Stock Received,177.0,GRN-000286,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000287,2026-06-15,PROD-000144,Golden Crunch,Opening Stock,2187.0,OPEN-PROD-000144,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000288,2026-07-28,PROD-000144,Golden Crunch,Stock Received,1152.0,GRN-000288,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000289,2026-06-15,PROD-000145,Golden Crunch,Opening Stock,1197.0,OPEN-PROD-000145,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000290,2026-07-24,PROD-000145,Golden Crunch,Stock Received,1165.0,GRN-000290,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000291,2026-06-15,PROD-000146,Cocoa Sandwich,Opening Stock,615.0,OPEN-PROD-000146,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000292,2026-07-04,PROD-000146,Cocoa Sandwich,Stock Received,123.0,GRN-000292,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000293,2026-06-15,PROD-000147,Butter Delight,Opening Stock,997.0,OPEN-PROD-000147,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000294,2026-08-10,PROD-000147,Butter Delight,Stock Received,1063.0,GRN-000294,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000295,2026-06-15,PROD-000148,Honey Crunch,Opening Stock,954.0,OPEN-PROD-000148,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000296,2026-08-04,PROD-000148,Honey Crunch,Stock Received,1141.0,GRN-000296,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000297,2026-06-15,PROD-000149,Cocoa Sandwich,Opening Stock,2026.0,OPEN-PROD-000149,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000298,2026-07-21,PROD-000149,Cocoa Sandwich,Stock Received,917.0,GRN-000298,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000299,2026-06-15,PROD-000150,Chocolate Delight,Opening Stock,2118.0,OPEN-PROD-000150,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000300,2026-07-09,PROD-000150,Chocolate Delight,Stock Received,576.0,GRN-000300,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000301,2026-06-15,PROD-000151,Premium Wafer,Opening Stock,2197.0,OPEN-PROD-000151,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000302,2026-07-23,PROD-000151,Premium Wafer,Stock Received,664.0,GRN-000302,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000303,2026-06-15,PROD-000152,Cocoa Sandwich,Opening Stock,911.0,OPEN-PROD-000152,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000304,2026-07-22,PROD-000152,Cocoa Sandwich,Stock Received,867.0,GRN-000304,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000305,2026-06-15,PROD-000153,Milk Crunch,Opening Stock,1440.0,OPEN-PROD-000153,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000306,2026-07-09,PROD-000153,Milk Crunch,Stock Received,1037.0,GRN-000306,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000307,2026-06-15,PROD-000154,Strawberry Cream,Opening Stock,2161.0,OPEN-PROD-000154,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000308,2026-07-01,PROD-000154,Strawberry Cream,Stock Received,1070.0,GRN-000308,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000309,2026-06-15,PROD-000155,Premium Wafer,Opening Stock,1689.0,OPEN-PROD-000155,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000310,2026-08-01,PROD-000155,Premium Wafer,Stock Received,739.0,GRN-000310,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000311,2026-06-15,PROD-000156,Family Pack,Opening Stock,824.0,OPEN-PROD-000156,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000312,2026-08-04,PROD-000156,Family Pack,Stock Received,940.0,GRN-000312,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000313,2026-06-15,PROD-000157,Honey Crunch,Opening Stock,1492.0,OPEN-PROD-000157,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000314,2026-07-22,PROD-000157,Honey Crunch,Stock Received,110.0,GRN-000314,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000315,2026-06-15,PROD-000158,Cocoa Sandwich,Opening Stock,2166.0,OPEN-PROD-000158,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000316,2026-06-30,PROD-000158,Cocoa Sandwich,Stock Received,1171.0,GRN-000316,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000317,2026-06-15,PROD-000159,Honey Crunch,Opening Stock,1336.0,OPEN-PROD-000159,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000318,2026-07-04,PROD-000159,Honey Crunch,Stock Received,176.0,GRN-000318,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000319,2026-06-15,PROD-000160,Premium Wafer,Opening Stock,853.0,OPEN-PROD-000160,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000320,2026-07-25,PROD-000160,Premium Wafer,Stock Received,272.0,GRN-000320,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000321,2026-06-15,PROD-000161,Classic Crackers,Opening Stock,1263.0,OPEN-PROD-000161,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000322,2026-08-05,PROD-000161,Classic Crackers,Stock Received,642.0,GRN-000322,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000323,2026-06-15,PROD-000162,Rich Chocolate,Opening Stock,1963.0,OPEN-PROD-000162,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000324,2026-08-12,PROD-000162,Rich Chocolate,Stock Received,306.0,GRN-000324,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000325,2026-06-15,PROD-000163,Family Pack,Opening Stock,1592.0,OPEN-PROD-000163,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000326,2026-06-30,PROD-000163,Family Pack,Stock Received,544.0,GRN-000326,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000327,2026-06-15,PROD-000164,Caramel Cream,Opening Stock,1692.0,OPEN-PROD-000164,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000328,2026-07-08,PROD-000164,Caramel Cream,Stock Received,728.0,GRN-000328,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000329,2026-06-15,PROD-000165,Honey Crunch,Opening Stock,591.0,OPEN-PROD-000165,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000330,2026-07-20,PROD-000165,Honey Crunch,Stock Received,905.0,GRN-000330,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000331,2026-06-15,PROD-000166,Rich Chocolate,Opening Stock,1603.0,OPEN-PROD-000166,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000332,2026-07-03,PROD-000166,Rich Chocolate,Stock Received,1157.0,GRN-000332,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000333,2026-06-15,PROD-000167,Family Pack,Opening Stock,1855.0,OPEN-PROD-000167,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000334,2026-07-12,PROD-000167,Family Pack,Stock Received,423.0,GRN-000334,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000335,2026-06-15,PROD-000168,Classic Cream,Opening Stock,714.0,OPEN-PROD-000168,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000336,2026-08-04,PROD-000168,Classic Cream,Stock Received,275.0,GRN-000336,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000337,2026-06-15,PROD-000169,Cocoa Sandwich,Opening Stock,2000.0,OPEN-PROD-000169,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000338,2026-07-23,PROD-000169,Cocoa Sandwich,Stock Received,897.0,GRN-000338,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000339,2026-06-15,PROD-000170,Caramel Cream,Opening Stock,1621.0,OPEN-PROD-000170,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000340,2026-07-25,PROD-000170,Caramel Cream,Stock Received,635.0,GRN-000340,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000341,2026-06-15,PROD-000171,Honey Crunch,Opening Stock,585.0,OPEN-PROD-000171,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000342,2026-08-03,PROD-000171,Honey Crunch,Stock Received,488.0,GRN-000342,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000343,2026-06-15,PROD-000172,Family Pack,Opening Stock,1099.0,OPEN-PROD-000172,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000344,2026-07-10,PROD-000172,Family Pack,Stock Received,704.0,GRN-000344,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000345,2026-06-15,PROD-000173,Chocolate Delight,Opening Stock,1084.0,OPEN-PROD-000173,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000346,2026-08-05,PROD-000173,Chocolate Delight,Stock Received,831.0,GRN-000346,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000347,2026-06-15,PROD-000174,Cocoa Sandwich,Opening Stock,1295.0,OPEN-PROD-000174,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000348,2026-07-04,PROD-000174,Cocoa Sandwich,Stock Received,486.0,GRN-000348,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000349,2026-06-15,PROD-000175,Family Pack,Opening Stock,519.0,OPEN-PROD-000175,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000350,2026-07-17,PROD-000175,Family Pack,Stock Received,1083.0,GRN-000350,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000351,2026-06-15,PROD-000176,Butter Delight,Opening Stock,1228.0,OPEN-PROD-000176,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000352,2026-08-03,PROD-000176,Butter Delight,Stock Received,1200.0,GRN-000352,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000353,2026-06-15,PROD-000177,Milk Crunch,Opening Stock,1978.0,OPEN-PROD-000177,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000354,2026-08-12,PROD-000177,Milk Crunch,Stock Received,1157.0,GRN-000354,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000355,2026-06-15,PROD-000178,Cocoa Sandwich,Opening Stock,867.0,OPEN-PROD-000178,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000356,2026-07-10,PROD-000178,Cocoa Sandwich,Stock Received,744.0,GRN-000356,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000357,2026-06-15,PROD-000179,Strawberry Cream,Opening Stock,796.0,OPEN-PROD-000179,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000358,2026-08-12,PROD-000179,Strawberry Cream,Stock Received,435.0,GRN-000358,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000359,2026-06-15,PROD-000180,Rich Chocolate,Opening Stock,738.0,OPEN-PROD-000180,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000360,2026-07-02,PROD-000180,Rich Chocolate,Stock Received,1154.0,GRN-000360,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000361,2026-06-15,PROD-000181,Cocoa Sandwich,Opening Stock,1942.0,OPEN-PROD-000181,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000362,2026-07-21,PROD-000181,Cocoa Sandwich,Stock Received,104.0,GRN-000362,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000363,2026-06-15,PROD-000182,Chocolate Delight,Opening Stock,630.0,OPEN-PROD-000182,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000364,2026-07-25,PROD-000182,Chocolate Delight,Stock Received,853.0,GRN-000364,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000365,2026-06-15,PROD-000183,Honey Crunch,Opening Stock,942.0,OPEN-PROD-000183,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000366,2026-08-04,PROD-000183,Honey Crunch,Stock Received,1189.0,GRN-000366,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000367,2026-06-15,PROD-000184,Classic Cream,Opening Stock,1727.0,OPEN-PROD-000184,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000368,2026-08-05,PROD-000184,Classic Cream,Stock Received,608.0,GRN-000368,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000369,2026-06-15,PROD-000185,Rich Chocolate,Opening Stock,717.0,OPEN-PROD-000185,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000370,2026-07-13,PROD-000185,Rich Chocolate,Stock Received,768.0,GRN-000370,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000371,2026-06-15,PROD-000186,Cocoa Sandwich,Opening Stock,719.0,OPEN-PROD-000186,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000372,2026-07-20,PROD-000186,Cocoa Sandwich,Stock Received,249.0,GRN-000372,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000373,2026-06-15,PROD-000187,Family Pack,Opening Stock,1037.0,OPEN-PROD-000187,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000374,2026-07-03,PROD-000187,Family Pack,Stock Received,717.0,GRN-000374,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000375,2026-06-15,PROD-000188,Cocoa Sandwich,Opening Stock,740.0,OPEN-PROD-000188,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000376,2026-07-14,PROD-000188,Cocoa Sandwich,Stock Received,812.0,GRN-000376,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000377,2026-06-15,PROD-000189,Milk Crunch,Opening Stock,1521.0,OPEN-PROD-000189,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000378,2026-07-09,PROD-000189,Milk Crunch,Stock Received,347.0,GRN-000378,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000379,2026-06-15,PROD-000190,Chocolate Delight,Opening Stock,1562.0,OPEN-PROD-000190,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000380,2026-07-22,PROD-000190,Chocolate Delight,Stock Received,605.0,GRN-000380,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000381,2026-06-15,PROD-000191,Golden Crunch,Opening Stock,1899.0,OPEN-PROD-000191,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000382,2026-07-07,PROD-000191,Golden Crunch,Stock Received,1033.0,GRN-000382,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000383,2026-06-15,PROD-000192,Milk Crunch,Opening Stock,1206.0,OPEN-PROD-000192,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000384,2026-08-09,PROD-000192,Milk Crunch,Stock Received,269.0,GRN-000384,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000385,2026-06-15,PROD-000193,Vanilla Cream,Opening Stock,2095.0,OPEN-PROD-000193,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000386,2026-07-13,PROD-000193,Vanilla Cream,Stock Received,279.0,GRN-000386,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000387,2026-06-15,PROD-000194,Classic Cream,Opening Stock,2093.0,OPEN-PROD-000194,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000388,2026-07-28,PROD-000194,Classic Cream,Stock Received,739.0,GRN-000388,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000389,2026-06-15,PROD-000195,Vanilla Cream,Opening Stock,2042.0,OPEN-PROD-000195,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000390,2026-08-03,PROD-000195,Vanilla Cream,Stock Received,562.0,GRN-000390,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000391,2026-06-15,PROD-000196,Strawberry Cream,Opening Stock,1165.0,OPEN-PROD-000196,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000392,2026-07-12,PROD-000196,Strawberry Cream,Stock Received,985.0,GRN-000392,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000393,2026-06-15,PROD-000197,Cocoa Sandwich,Opening Stock,1650.0,OPEN-PROD-000197,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000394,2026-07-24,PROD-000197,Cocoa Sandwich,Stock Received,779.0,GRN-000394,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000395,2026-06-15,PROD-000198,Strawberry Cream,Opening Stock,1982.0,OPEN-PROD-000198,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000396,2026-07-19,PROD-000198,Strawberry Cream,Stock Received,1110.0,GRN-000396,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000397,2026-06-15,PROD-000199,Coconut Crunch,Opening Stock,1142.0,OPEN-PROD-000199,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000398,2026-08-01,PROD-000199,Coconut Crunch,Stock Received,461.0,GRN-000398,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000399,2026-06-15,PROD-000200,Classic Crackers,Opening Stock,2151.0,OPEN-PROD-000200,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000400,2026-07-30,PROD-000200,Classic Crackers,Stock Received,1048.0,GRN-000400,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000401,2026-06-15,PROD-000201,Cocoa Sandwich,Opening Stock,1911.0,OPEN-PROD-000201,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000402,2026-07-22,PROD-000201,Cocoa Sandwich,Stock Received,813.0,GRN-000402,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000403,2026-06-15,PROD-000202,Golden Crunch,Opening Stock,1339.0,OPEN-PROD-000202,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000404,2026-07-31,PROD-000202,Golden Crunch,Stock Received,881.0,GRN-000404,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000405,2026-06-15,PROD-000203,Strawberry Cream,Opening Stock,816.0,OPEN-PROD-000203,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000406,2026-07-08,PROD-000203,Strawberry Cream,Stock Received,1004.0,GRN-000406,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000407,2026-06-15,PROD-000204,Honey Crunch,Opening Stock,1845.0,OPEN-PROD-000204,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000408,2026-07-17,PROD-000204,Honey Crunch,Stock Received,361.0,GRN-000408,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000409,2026-06-15,PROD-000205,Vanilla Cream,Opening Stock,1048.0,OPEN-PROD-000205,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000410,2026-08-06,PROD-000205,Vanilla Cream,Stock Received,773.0,GRN-000410,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000411,2026-06-15,PROD-000206,Strawberry Cream,Opening Stock,1155.0,OPEN-PROD-000206,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000412,2026-07-16,PROD-000206,Strawberry Cream,Stock Received,645.0,GRN-000412,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000413,2026-06-15,PROD-000207,Butter Delight,Opening Stock,1039.0,OPEN-PROD-000207,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000414,2026-07-10,PROD-000207,Butter Delight,Stock Received,397.0,GRN-000414,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000415,2026-06-15,PROD-000208,Chocolate Delight,Opening Stock,1783.0,OPEN-PROD-000208,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000416,2026-07-30,PROD-000208,Chocolate Delight,Stock Received,649.0,GRN-000416,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000417,2026-06-15,PROD-000209,Premium Wafer,Opening Stock,1179.0,OPEN-PROD-000209,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000418,2026-07-09,PROD-000209,Premium Wafer,Stock Received,393.0,GRN-000418,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000419,2026-06-15,PROD-000210,Cocoa Sandwich,Opening Stock,2081.0,OPEN-PROD-000210,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000420,2026-07-27,PROD-000210,Cocoa Sandwich,Stock Received,352.0,GRN-000420,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000421,2026-06-15,PROD-000211,Honey Crunch,Opening Stock,1101.0,OPEN-PROD-000211,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000422,2026-07-04,PROD-000211,Honey Crunch,Stock Received,1038.0,GRN-000422,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000423,2026-06-15,PROD-000212,Classic Cream,Opening Stock,1321.0,OPEN-PROD-000212,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000424,2026-08-12,PROD-000212,Classic Cream,Stock Received,918.0,GRN-000424,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000425,2026-06-15,PROD-000213,Strawberry Cream,Opening Stock,1625.0,OPEN-PROD-000213,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000426,2026-07-01,PROD-000213,Strawberry Cream,Stock Received,774.0,GRN-000426,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000427,2026-06-15,PROD-000214,Rich Chocolate,Opening Stock,1338.0,OPEN-PROD-000214,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000428,2026-08-07,PROD-000214,Rich Chocolate,Stock Received,789.0,GRN-000428,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000429,2026-06-15,PROD-000215,Milk Crunch,Opening Stock,1890.0,OPEN-PROD-000215,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000430,2026-07-01,PROD-000215,Milk Crunch,Stock Received,1113.0,GRN-000430,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000431,2026-06-15,PROD-000216,Chocolate Delight,Opening Stock,1796.0,OPEN-PROD-000216,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000432,2026-07-31,PROD-000216,Chocolate Delight,Stock Received,1158.0,GRN-000432,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000433,2026-06-15,PROD-000217,Rich Chocolate,Opening Stock,1369.0,OPEN-PROD-000217,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000434,2026-07-03,PROD-000217,Rich Chocolate,Stock Received,821.0,GRN-000434,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000435,2026-06-15,PROD-000218,Butter Delight,Opening Stock,1176.0,OPEN-PROD-000218,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000436,2026-07-19,PROD-000218,Butter Delight,Stock Received,222.0,GRN-000436,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000437,2026-06-15,PROD-000219,Family Pack,Opening Stock,1983.0,OPEN-PROD-000219,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000438,2026-08-13,PROD-000219,Family Pack,Stock Received,454.0,GRN-000438,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000439,2026-06-15,PROD-000220,Butter Delight,Opening Stock,1046.0,OPEN-PROD-000220,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000440,2026-08-05,PROD-000220,Butter Delight,Stock Received,616.0,GRN-000440,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000441,2026-06-15,PROD-000221,Butter Delight,Opening Stock,1184.0,OPEN-PROD-000221,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000442,2026-07-14,PROD-000221,Butter Delight,Stock Received,949.0,GRN-000442,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000443,2026-06-15,PROD-000222,Family Pack,Opening Stock,1489.0,OPEN-PROD-000222,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000444,2026-08-13,PROD-000222,Family Pack,Stock Received,793.0,GRN-000444,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000445,2026-06-15,PROD-000223,Golden Crunch,Opening Stock,576.0,OPEN-PROD-000223,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000446,2026-07-04,PROD-000223,Golden Crunch,Stock Received,550.0,GRN-000446,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000447,2026-06-15,PROD-000224,Premium Wafer,Opening Stock,747.0,OPEN-PROD-000224,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000448,2026-07-24,PROD-000224,Premium Wafer,Stock Received,650.0,GRN-000448,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000449,2026-06-15,PROD-000225,Vanilla Cream,Opening Stock,536.0,OPEN-PROD-000225,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000450,2026-07-15,PROD-000225,Vanilla Cream,Stock Received,528.0,GRN-000450,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000451,2026-06-15,PROD-000226,Rich Chocolate,Opening Stock,1554.0,OPEN-PROD-000226,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000452,2026-07-05,PROD-000226,Rich Chocolate,Stock Received,667.0,GRN-000452,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000453,2026-06-15,PROD-000227,Rich Chocolate,Opening Stock,1790.0,OPEN-PROD-000227,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000454,2026-08-08,PROD-000227,Rich Chocolate,Stock Received,856.0,GRN-000454,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000455,2026-06-15,PROD-000228,Coconut Crunch,Opening Stock,1638.0,OPEN-PROD-000228,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000456,2026-07-10,PROD-000228,Coconut Crunch,Stock Received,484.0,GRN-000456,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000457,2026-06-15,PROD-000229,Chocolate Delight,Opening Stock,2074.0,OPEN-PROD-000229,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000458,2026-08-07,PROD-000229,Chocolate Delight,Stock Received,123.0,GRN-000458,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000459,2026-06-15,PROD-000230,Family Pack,Opening Stock,819.0,OPEN-PROD-000230,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000460,2026-07-30,PROD-000230,Family Pack,Stock Received,775.0,GRN-000460,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000461,2026-06-15,PROD-000231,Strawberry Cream,Opening Stock,1449.0,OPEN-PROD-000231,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000462,2026-07-06,PROD-000231,Strawberry Cream,Stock Received,522.0,GRN-000462,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000463,2026-06-15,PROD-000232,Coconut Crunch,Opening Stock,1878.0,OPEN-PROD-000232,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000464,2026-07-25,PROD-000232,Coconut Crunch,Stock Received,449.0,GRN-000464,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000465,2026-06-15,PROD-000233,Strawberry Cream,Opening Stock,672.0,OPEN-PROD-000233,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000466,2026-07-11,PROD-000233,Strawberry Cream,Stock Received,954.0,GRN-000466,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000467,2026-06-15,PROD-000234,Strawberry Cream,Opening Stock,1894.0,OPEN-PROD-000234,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000468,2026-08-07,PROD-000234,Strawberry Cream,Stock Received,372.0,GRN-000468,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000469,2026-06-15,PROD-000235,Vanilla Cream,Opening Stock,557.0,OPEN-PROD-000235,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000470,2026-07-18,PROD-000235,Vanilla Cream,Stock Received,654.0,GRN-000470,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000471,2026-06-15,PROD-000236,Golden Crunch,Opening Stock,591.0,OPEN-PROD-000236,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000472,2026-07-09,PROD-000236,Golden Crunch,Stock Received,479.0,GRN-000472,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000473,2026-06-15,PROD-000237,Strawberry Cream,Opening Stock,2003.0,OPEN-PROD-000237,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000474,2026-07-30,PROD-000237,Strawberry Cream,Stock Received,1151.0,GRN-000474,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000475,2026-06-15,PROD-000238,Cocoa Sandwich,Opening Stock,1464.0,OPEN-PROD-000238,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000476,2026-07-23,PROD-000238,Cocoa Sandwich,Stock Received,798.0,GRN-000476,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000477,2026-06-15,PROD-000239,Milk Crunch,Opening Stock,1211.0,OPEN-PROD-000239,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000478,2026-07-06,PROD-000239,Milk Crunch,Stock Received,750.0,GRN-000478,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000479,2026-06-15,PROD-000240,Chocolate Delight,Opening Stock,1482.0,OPEN-PROD-000240,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000480,2026-07-13,PROD-000240,Chocolate Delight,Stock Received,622.0,GRN-000480,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000481,2026-06-15,PROD-000241,Premium Wafer,Opening Stock,1169.0,OPEN-PROD-000241,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000482,2026-08-11,PROD-000241,Premium Wafer,Stock Received,612.0,GRN-000482,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000483,2026-06-15,PROD-000242,Caramel Cream,Opening Stock,1818.0,OPEN-PROD-000242,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000484,2026-08-05,PROD-000242,Caramel Cream,Stock Received,1103.0,GRN-000484,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000485,2026-06-15,PROD-000243,Butter Delight,Opening Stock,544.0,OPEN-PROD-000243,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000486,2026-07-21,PROD-000243,Butter Delight,Stock Received,1084.0,GRN-000486,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000487,2026-06-15,PROD-000244,Golden Crunch,Opening Stock,1019.0,OPEN-PROD-000244,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000488,2026-08-01,PROD-000244,Golden Crunch,Stock Received,1054.0,GRN-000488,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000489,2026-06-15,PROD-000245,Rich Chocolate,Opening Stock,1252.0,OPEN-PROD-000245,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000490,2026-07-12,PROD-000245,Rich Chocolate,Stock Received,660.0,GRN-000490,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000491,2026-06-15,PROD-000246,Milk Crunch,Opening Stock,1999.0,OPEN-PROD-000246,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000492,2026-07-25,PROD-000246,Milk Crunch,Stock Received,919.0,GRN-000492,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000493,2026-06-15,PROD-000247,Honey Crunch,Opening Stock,947.0,OPEN-PROD-000247,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000494,2026-07-18,PROD-000247,Honey Crunch,Stock Received,210.0,GRN-000494,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000495,2026-06-15,PROD-000248,Premium Wafer,Opening Stock,632.0,OPEN-PROD-000248,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000496,2026-07-01,PROD-000248,Premium Wafer,Stock Received,1142.0,GRN-000496,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000497,2026-06-15,PROD-000249,Chocolate Delight,Opening Stock,1590.0,OPEN-PROD-000249,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000498,2026-07-14,PROD-000249,Chocolate Delight,Stock Received,711.0,GRN-000498,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000499,2026-06-15,PROD-000250,Golden Crunch,Opening Stock,1762.0,OPEN-PROD-000250,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000500,2026-07-12,PROD-000250,Golden Crunch,Stock Received,285.0,GRN-000500,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000501,2026-06-15,PROD-000251,Golden Crunch,Opening Stock,1569.0,OPEN-PROD-000251,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000502,2026-07-13,PROD-000251,Golden Crunch,Stock Received,765.0,GRN-000502,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000503,2026-06-15,PROD-000252,Coconut Crunch,Opening Stock,1151.0,OPEN-PROD-000252,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000504,2026-07-21,PROD-000252,Coconut Crunch,Stock Received,795.0,GRN-000504,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000505,2026-06-15,PROD-000253,Classic Crackers,Opening Stock,871.0,OPEN-PROD-000253,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000506,2026-07-09,PROD-000253,Classic Crackers,Stock Received,259.0,GRN-000506,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000507,2026-06-15,PROD-000254,Classic Crackers,Opening Stock,2134.0,OPEN-PROD-000254,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000508,2026-07-28,PROD-000254,Classic Crackers,Stock Received,457.0,GRN-000508,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000509,2026-06-15,PROD-000255,Caramel Cream,Opening Stock,1581.0,OPEN-PROD-000255,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000510,2026-07-20,PROD-000255,Caramel Cream,Stock Received,1166.0,GRN-000510,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000511,2026-06-15,PROD-000256,Classic Crackers,Opening Stock,1791.0,OPEN-PROD-000256,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000512,2026-07-06,PROD-000256,Classic Crackers,Stock Received,317.0,GRN-000512,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000513,2026-06-15,PROD-000257,Butter Delight,Opening Stock,939.0,OPEN-PROD-000257,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000514,2026-07-15,PROD-000257,Butter Delight,Stock Received,159.0,GRN-000514,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000515,2026-06-15,PROD-000258,Strawberry Cream,Opening Stock,993.0,OPEN-PROD-000258,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000516,2026-07-17,PROD-000258,Strawberry Cream,Stock Received,529.0,GRN-000516,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000517,2026-06-15,PROD-000259,Premium Wafer,Opening Stock,1540.0,OPEN-PROD-000259,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000518,2026-08-05,PROD-000259,Premium Wafer,Stock Received,1178.0,GRN-000518,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000519,2026-06-15,PROD-000260,Milk Crunch,Opening Stock,1552.0,OPEN-PROD-000260,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000520,2026-07-27,PROD-000260,Milk Crunch,Stock Received,532.0,GRN-000520,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000521,2026-06-15,PROD-000261,Chocolate Delight,Opening Stock,2088.0,OPEN-PROD-000261,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000522,2026-08-05,PROD-000261,Chocolate Delight,Stock Received,1100.0,GRN-000522,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000523,2026-06-15,PROD-000262,Honey Crunch,Opening Stock,1644.0,OPEN-PROD-000262,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000524,2026-07-21,PROD-000262,Honey Crunch,Stock Received,767.0,GRN-000524,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000525,2026-06-15,PROD-000263,Golden Crunch,Opening Stock,1832.0,OPEN-PROD-000263,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000526,2026-07-10,PROD-000263,Golden Crunch,Stock Received,902.0,GRN-000526,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000527,2026-06-15,PROD-000264,Coconut Crunch,Opening Stock,1760.0,OPEN-PROD-000264,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000528,2026-08-04,PROD-000264,Coconut Crunch,Stock Received,487.0,GRN-000528,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000529,2026-06-15,PROD-000265,Classic Cream,Opening Stock,1742.0,OPEN-PROD-000265,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000530,2026-08-04,PROD-000265,Classic Cream,Stock Received,413.0,GRN-000530,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000531,2026-06-15,PROD-000266,Strawberry Cream,Opening Stock,768.0,OPEN-PROD-000266,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000532,2026-07-02,PROD-000266,Strawberry Cream,Stock Received,225.0,GRN-000532,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000533,2026-06-15,PROD-000267,Honey Crunch,Opening Stock,570.0,OPEN-PROD-000267,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000534,2026-07-25,PROD-000267,Honey Crunch,Stock Received,674.0,GRN-000534,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000535,2026-06-15,PROD-000268,Milk Crunch,Opening Stock,2178.0,OPEN-PROD-000268,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000536,2026-08-05,PROD-000268,Milk Crunch,Stock Received,466.0,GRN-000536,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000537,2026-06-15,PROD-000269,Golden Crunch,Opening Stock,1047.0,OPEN-PROD-000269,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000538,2026-08-05,PROD-000269,Golden Crunch,Stock Received,830.0,GRN-000538,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000539,2026-06-15,PROD-000270,Vanilla Cream,Opening Stock,1436.0,OPEN-PROD-000270,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000540,2026-08-02,PROD-000270,Vanilla Cream,Stock Received,444.0,GRN-000540,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000541,2026-06-15,PROD-000271,Vanilla Cream,Opening Stock,1919.0,OPEN-PROD-000271,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000542,2026-08-02,PROD-000271,Vanilla Cream,Stock Received,209.0,GRN-000542,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000543,2026-06-15,PROD-000272,Classic Crackers,Opening Stock,1892.0,OPEN-PROD-000272,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000544,2026-07-18,PROD-000272,Classic Crackers,Stock Received,415.0,GRN-000544,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000545,2026-06-15,PROD-000273,Family Pack,Opening Stock,1813.0,OPEN-PROD-000273,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000546,2026-07-10,PROD-000273,Family Pack,Stock Received,1102.0,GRN-000546,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000547,2026-06-15,PROD-000274,Vanilla Cream,Opening Stock,559.0,OPEN-PROD-000274,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000548,2026-07-30,PROD-000274,Vanilla Cream,Stock Received,715.0,GRN-000548,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000549,2026-06-15,PROD-000275,Family Pack,Opening Stock,1553.0,OPEN-PROD-000275,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000550,2026-07-10,PROD-000275,Family Pack,Stock Received,845.0,GRN-000550,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000551,2026-06-15,PROD-000276,Coconut Crunch,Opening Stock,688.0,OPEN-PROD-000276,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000552,2026-07-01,PROD-000276,Coconut Crunch,Stock Received,1053.0,GRN-000552,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000553,2026-06-15,PROD-000277,Premium Wafer,Opening Stock,2030.0,OPEN-PROD-000277,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000554,2026-08-04,PROD-000277,Premium Wafer,Stock Received,933.0,GRN-000554,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000555,2026-06-15,PROD-000278,Strawberry Cream,Opening Stock,1164.0,OPEN-PROD-000278,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000556,2026-07-12,PROD-000278,Strawberry Cream,Stock Received,398.0,GRN-000556,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000557,2026-06-15,PROD-000279,Milk Crunch,Opening Stock,582.0,OPEN-PROD-000279,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000558,2026-08-13,PROD-000279,Milk Crunch,Stock Received,1064.0,GRN-000558,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000559,2026-06-15,PROD-000280,Strawberry Cream,Opening Stock,619.0,OPEN-PROD-000280,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000560,2026-07-22,PROD-000280,Strawberry Cream,Stock Received,293.0,GRN-000560,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000561,2026-06-15,PROD-000281,Vanilla Cream,Opening Stock,1700.0,OPEN-PROD-000281,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000562,2026-07-23,PROD-000281,Vanilla Cream,Stock Received,626.0,GRN-000562,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000563,2026-06-15,PROD-000282,Premium Wafer,Opening Stock,2049.0,OPEN-PROD-000282,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000564,2026-08-03,PROD-000282,Premium Wafer,Stock Received,157.0,GRN-000564,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000565,2026-06-15,PROD-000283,Cocoa Sandwich,Opening Stock,1530.0,OPEN-PROD-000283,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000566,2026-08-08,PROD-000283,Cocoa Sandwich,Stock Received,491.0,GRN-000566,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000567,2026-06-15,PROD-000284,Family Pack,Opening Stock,1365.0,OPEN-PROD-000284,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000568,2026-08-01,PROD-000284,Family Pack,Stock Received,987.0,GRN-000568,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000569,2026-06-15,PROD-000285,Golden Crunch,Opening Stock,849.0,OPEN-PROD-000285,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000570,2026-07-30,PROD-000285,Golden Crunch,Stock Received,593.0,GRN-000570,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000571,2026-06-15,PROD-000286,Honey Crunch,Opening Stock,1855.0,OPEN-PROD-000286,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000572,2026-07-31,PROD-000286,Honey Crunch,Stock Received,1112.0,GRN-000572,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000573,2026-06-15,PROD-000287,Caramel Cream,Opening Stock,1262.0,OPEN-PROD-000287,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000574,2026-07-10,PROD-000287,Caramel Cream,Stock Received,424.0,GRN-000574,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000575,2026-06-15,PROD-000288,Strawberry Cream,Opening Stock,1364.0,OPEN-PROD-000288,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000576,2026-07-15,PROD-000288,Strawberry Cream,Stock Received,966.0,GRN-000576,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000577,2026-06-15,PROD-000289,Chocolate Delight,Opening Stock,1243.0,OPEN-PROD-000289,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000578,2026-07-25,PROD-000289,Chocolate Delight,Stock Received,528.0,GRN-000578,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000579,2026-06-15,PROD-000290,Golden Crunch,Opening Stock,1788.0,OPEN-PROD-000290,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000580,2026-07-09,PROD-000290,Golden Crunch,Stock Received,1002.0,GRN-000580,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000581,2026-06-15,PROD-000291,Golden Crunch,Opening Stock,1742.0,OPEN-PROD-000291,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000582,2026-08-08,PROD-000291,Golden Crunch,Stock Received,1086.0,GRN-000582,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000583,2026-06-15,PROD-000292,Caramel Cream,Opening Stock,932.0,OPEN-PROD-000292,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000584,2026-08-06,PROD-000292,Caramel Cream,Stock Received,500.0,GRN-000584,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000585,2026-06-15,PROD-000293,Vanilla Cream,Opening Stock,2048.0,OPEN-PROD-000293,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000586,2026-07-22,PROD-000293,Vanilla Cream,Stock Received,261.0,GRN-000586,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000587,2026-06-15,PROD-000294,Chocolate Delight,Opening Stock,1963.0,OPEN-PROD-000294,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000588,2026-08-06,PROD-000294,Chocolate Delight,Stock Received,423.0,GRN-000588,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000589,2026-06-15,PROD-000295,Honey Crunch,Opening Stock,852.0,OPEN-PROD-000295,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000590,2026-07-03,PROD-000295,Honey Crunch,Stock Received,516.0,GRN-000590,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000591,2026-06-15,PROD-000296,Premium Wafer,Opening Stock,1387.0,OPEN-PROD-000296,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000592,2026-07-17,PROD-000296,Premium Wafer,Stock Received,487.0,GRN-000592,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000593,2026-06-15,PROD-000297,Caramel Cream,Opening Stock,562.0,OPEN-PROD-000297,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000594,2026-07-03,PROD-000297,Caramel Cream,Stock Received,396.0,GRN-000594,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000595,2026-06-15,PROD-000298,Chocolate Delight,Opening Stock,1798.0,OPEN-PROD-000298,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000596,2026-07-26,PROD-000298,Chocolate Delight,Stock Received,650.0,GRN-000596,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000597,2026-06-15,PROD-000299,Butter Delight,Opening Stock,2013.0,OPEN-PROD-000299,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000598,2026-07-19,PROD-000299,Butter Delight,Stock Received,847.0,GRN-000598,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000599,2026-06-15,PROD-000300,Vanilla Cream,Opening Stock,519.0,OPEN-PROD-000300,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000600,2026-07-11,PROD-000300,Vanilla Cream,Stock Received,1076.0,GRN-000600,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000601,2026-06-15,PROD-000301,Chocolate Delight,Opening Stock,1442.0,OPEN-PROD-000301,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000602,2026-07-22,PROD-000301,Chocolate Delight,Stock Received,659.0,GRN-000602,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000603,2026-06-15,PROD-000302,Rich Chocolate,Opening Stock,1499.0,OPEN-PROD-000302,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000604,2026-08-07,PROD-000302,Rich Chocolate,Stock Received,382.0,GRN-000604,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000605,2026-06-15,PROD-000303,Milk Crunch,Opening Stock,2124.0,OPEN-PROD-000303,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000606,2026-07-09,PROD-000303,Milk Crunch,Stock Received,394.0,GRN-000606,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000607,2026-06-15,PROD-000304,Classic Cream,Opening Stock,955.0,OPEN-PROD-000304,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000608,2026-07-15,PROD-000304,Classic Cream,Stock Received,835.0,GRN-000608,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000609,2026-06-15,PROD-000305,Coconut Crunch,Opening Stock,1272.0,OPEN-PROD-000305,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000610,2026-06-30,PROD-000305,Coconut Crunch,Stock Received,198.0,GRN-000610,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000611,2026-06-15,PROD-000306,Golden Crunch,Opening Stock,1872.0,OPEN-PROD-000306,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000612,2026-07-28,PROD-000306,Golden Crunch,Stock Received,768.0,GRN-000612,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000613,2026-06-15,PROD-000307,Caramel Cream,Opening Stock,1896.0,OPEN-PROD-000307,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000614,2026-07-15,PROD-000307,Caramel Cream,Stock Received,261.0,GRN-000614,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000615,2026-06-15,PROD-000308,Rich Chocolate,Opening Stock,1459.0,OPEN-PROD-000308,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000616,2026-07-10,PROD-000308,Rich Chocolate,Stock Received,808.0,GRN-000616,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000617,2026-06-15,PROD-000309,Vanilla Cream,Opening Stock,2191.0,OPEN-PROD-000309,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000618,2026-07-11,PROD-000309,Vanilla Cream,Stock Received,1176.0,GRN-000618,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000619,2026-06-15,PROD-000310,Caramel Cream,Opening Stock,701.0,OPEN-PROD-000310,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000620,2026-07-26,PROD-000310,Caramel Cream,Stock Received,665.0,GRN-000620,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000621,2026-06-15,PROD-000311,Vanilla Cream,Opening Stock,576.0,OPEN-PROD-000311,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000622,2026-07-07,PROD-000311,Vanilla Cream,Stock Received,264.0,GRN-000622,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000623,2026-06-15,PROD-000312,Golden Crunch,Opening Stock,585.0,OPEN-PROD-000312,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000624,2026-07-11,PROD-000312,Golden Crunch,Stock Received,243.0,GRN-000624,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000625,2026-06-15,PROD-000313,Classic Crackers,Opening Stock,1426.0,OPEN-PROD-000313,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000626,2026-07-20,PROD-000313,Classic Crackers,Stock Received,322.0,GRN-000626,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000627,2026-06-15,PROD-000314,Vanilla Cream,Opening Stock,2136.0,OPEN-PROD-000314,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000628,2026-07-05,PROD-000314,Vanilla Cream,Stock Received,1035.0,GRN-000628,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000629,2026-06-15,PROD-000315,Rich Chocolate,Opening Stock,1480.0,OPEN-PROD-000315,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000630,2026-08-04,PROD-000315,Rich Chocolate,Stock Received,144.0,GRN-000630,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000631,2026-06-15,PROD-000316,Rich Chocolate,Opening Stock,1152.0,OPEN-PROD-000316,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000632,2026-08-12,PROD-000316,Rich Chocolate,Stock Received,375.0,GRN-000632,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000633,2026-06-15,PROD-000317,Cocoa Sandwich,Opening Stock,715.0,OPEN-PROD-000317,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000634,2026-08-08,PROD-000317,Cocoa Sandwich,Stock Received,902.0,GRN-000634,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000635,2026-06-15,PROD-000318,Golden Crunch,Opening Stock,844.0,OPEN-PROD-000318,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000636,2026-07-28,PROD-000318,Golden Crunch,Stock Received,1195.0,GRN-000636,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000637,2026-06-15,PROD-000319,Vanilla Cream,Opening Stock,537.0,OPEN-PROD-000319,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000638,2026-08-09,PROD-000319,Vanilla Cream,Stock Received,194.0,GRN-000638,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000639,2026-06-15,PROD-000320,Classic Crackers,Opening Stock,2041.0,OPEN-PROD-000320,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000640,2026-08-06,PROD-000320,Classic Crackers,Stock Received,1166.0,GRN-000640,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000641,2026-06-15,PROD-000321,Coconut Crunch,Opening Stock,2000.0,OPEN-PROD-000321,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000642,2026-08-04,PROD-000321,Coconut Crunch,Stock Received,785.0,GRN-000642,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000643,2026-06-15,PROD-000322,Chocolate Delight,Opening Stock,1128.0,OPEN-PROD-000322,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000644,2026-07-29,PROD-000322,Chocolate Delight,Stock Received,1064.0,GRN-000644,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000645,2026-06-15,PROD-000323,Rich Chocolate,Opening Stock,1159.0,OPEN-PROD-000323,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000646,2026-06-30,PROD-000323,Rich Chocolate,Stock Received,1059.0,GRN-000646,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000647,2026-06-15,PROD-000324,Caramel Cream,Opening Stock,996.0,OPEN-PROD-000324,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000648,2026-07-29,PROD-000324,Caramel Cream,Stock Received,919.0,GRN-000648,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000649,2026-06-15,PROD-000325,Vanilla Cream,Opening Stock,1552.0,OPEN-PROD-000325,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000650,2026-07-18,PROD-000325,Vanilla Cream,Stock Received,740.0,GRN-000650,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000651,2026-06-15,PROD-000326,Classic Cream,Opening Stock,584.0,OPEN-PROD-000326,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000652,2026-07-29,PROD-000326,Classic Cream,Stock Received,1101.0,GRN-000652,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000653,2026-06-15,PROD-000327,Strawberry Cream,Opening Stock,1719.0,OPEN-PROD-000327,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000654,2026-07-16,PROD-000327,Strawberry Cream,Stock Received,477.0,GRN-000654,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000655,2026-06-15,PROD-000328,Premium Wafer,Opening Stock,886.0,OPEN-PROD-000328,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000656,2026-07-07,PROD-000328,Premium Wafer,Stock Received,332.0,GRN-000656,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000657,2026-06-15,PROD-000329,Golden Crunch,Opening Stock,1475.0,OPEN-PROD-000329,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000658,2026-07-14,PROD-000329,Golden Crunch,Stock Received,881.0,GRN-000658,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000659,2026-06-15,PROD-000330,Family Pack,Opening Stock,1585.0,OPEN-PROD-000330,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000660,2026-07-13,PROD-000330,Family Pack,Stock Received,133.0,GRN-000660,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000661,2026-06-15,PROD-000331,Classic Cream,Opening Stock,947.0,OPEN-PROD-000331,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000662,2026-08-11,PROD-000331,Classic Cream,Stock Received,887.0,GRN-000662,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000663,2026-06-15,PROD-000332,Butter Delight,Opening Stock,1584.0,OPEN-PROD-000332,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000664,2026-08-05,PROD-000332,Butter Delight,Stock Received,1053.0,GRN-000664,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000665,2026-06-15,PROD-000333,Butter Delight,Opening Stock,1103.0,OPEN-PROD-000333,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000666,2026-07-11,PROD-000333,Butter Delight,Stock Received,593.0,GRN-000666,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000667,2026-06-15,PROD-000334,Coconut Crunch,Opening Stock,1142.0,OPEN-PROD-000334,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000668,2026-07-17,PROD-000334,Coconut Crunch,Stock Received,647.0,GRN-000668,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000669,2026-06-15,PROD-000335,Honey Crunch,Opening Stock,2005.0,OPEN-PROD-000335,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000670,2026-07-22,PROD-000335,Honey Crunch,Stock Received,153.0,GRN-000670,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000671,2026-06-15,PROD-000336,Butter Delight,Opening Stock,1733.0,OPEN-PROD-000336,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000672,2026-08-03,PROD-000336,Butter Delight,Stock Received,1164.0,GRN-000672,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000673,2026-06-15,PROD-000337,Premium Wafer,Opening Stock,1586.0,OPEN-PROD-000337,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000674,2026-07-08,PROD-000337,Premium Wafer,Stock Received,350.0,GRN-000674,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000675,2026-06-15,PROD-000338,Classic Crackers,Opening Stock,1254.0,OPEN-PROD-000338,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000676,2026-07-07,PROD-000338,Classic Crackers,Stock Received,544.0,GRN-000676,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000677,2026-06-15,PROD-000339,Classic Cream,Opening Stock,655.0,OPEN-PROD-000339,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000678,2026-07-15,PROD-000339,Classic Cream,Stock Received,448.0,GRN-000678,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000679,2026-06-15,PROD-000340,Milk Crunch,Opening Stock,1330.0,OPEN-PROD-000340,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000680,2026-08-07,PROD-000340,Milk Crunch,Stock Received,327.0,GRN-000680,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000681,2026-06-15,PROD-000341,Family Pack,Opening Stock,2149.0,OPEN-PROD-000341,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000682,2026-07-19,PROD-000341,Family Pack,Stock Received,951.0,GRN-000682,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000683,2026-06-15,PROD-000342,Milk Crunch,Opening Stock,511.0,OPEN-PROD-000342,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000684,2026-08-01,PROD-000342,Milk Crunch,Stock Received,600.0,GRN-000684,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000685,2026-06-15,PROD-000343,Butter Delight,Opening Stock,604.0,OPEN-PROD-000343,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000686,2026-08-03,PROD-000343,Butter Delight,Stock Received,637.0,GRN-000686,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000687,2026-06-15,PROD-000344,Butter Delight,Opening Stock,1574.0,OPEN-PROD-000344,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000688,2026-07-21,PROD-000344,Butter Delight,Stock Received,645.0,GRN-000688,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000689,2026-06-15,PROD-000345,Classic Cream,Opening Stock,673.0,OPEN-PROD-000345,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000690,2026-08-03,PROD-000345,Classic Cream,Stock Received,622.0,GRN-000690,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000691,2026-06-15,PROD-000346,Vanilla Cream,Opening Stock,574.0,OPEN-PROD-000346,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000692,2026-07-04,PROD-000346,Vanilla Cream,Stock Received,547.0,GRN-000692,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000693,2026-06-15,PROD-000347,Coconut Crunch,Opening Stock,2144.0,OPEN-PROD-000347,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000694,2026-07-16,PROD-000347,Coconut Crunch,Stock Received,336.0,GRN-000694,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000695,2026-06-15,PROD-000348,Coconut Crunch,Opening Stock,1625.0,OPEN-PROD-000348,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000696,2026-07-22,PROD-000348,Coconut Crunch,Stock Received,172.0,GRN-000696,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000697,2026-06-15,PROD-000349,Coconut Crunch,Opening Stock,1921.0,OPEN-PROD-000349,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000698,2026-07-12,PROD-000349,Coconut Crunch,Stock Received,1056.0,GRN-000698,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000699,2026-06-15,PROD-000350,Classic Crackers,Opening Stock,1791.0,OPEN-PROD-000350,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000700,2026-08-01,PROD-000350,Classic Crackers,Stock Received,170.0,GRN-000700,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000701,2026-06-15,PROD-000351,Golden Crunch,Opening Stock,1832.0,OPEN-PROD-000351,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000702,2026-08-10,PROD-000351,Golden Crunch,Stock Received,1086.0,GRN-000702,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000703,2026-06-15,PROD-000352,Classic Crackers,Opening Stock,1096.0,OPEN-PROD-000352,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000704,2026-08-03,PROD-000352,Classic Crackers,Stock Received,286.0,GRN-000704,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000705,2026-06-15,PROD-000353,Honey Crunch,Opening Stock,1835.0,OPEN-PROD-000353,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000706,2026-07-27,PROD-000353,Honey Crunch,Stock Received,234.0,GRN-000706,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000707,2026-06-15,PROD-000354,Milk Crunch,Opening Stock,919.0,OPEN-PROD-000354,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000708,2026-07-26,PROD-000354,Milk Crunch,Stock Received,114.0,GRN-000708,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000709,2026-06-15,PROD-000355,Classic Cream,Opening Stock,1765.0,OPEN-PROD-000355,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000710,2026-07-14,PROD-000355,Classic Cream,Stock Received,189.0,GRN-000710,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000711,2026-06-15,PROD-000356,Rich Chocolate,Opening Stock,1031.0,OPEN-PROD-000356,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000712,2026-06-30,PROD-000356,Rich Chocolate,Stock Received,246.0,GRN-000712,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000713,2026-06-15,PROD-000357,Butter Delight,Opening Stock,1990.0,OPEN-PROD-000357,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000714,2026-07-09,PROD-000357,Butter Delight,Stock Received,443.0,GRN-000714,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000715,2026-06-15,PROD-000358,Premium Wafer,Opening Stock,1801.0,OPEN-PROD-000358,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000716,2026-07-07,PROD-000358,Premium Wafer,Stock Received,1158.0,GRN-000716,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000717,2026-06-15,PROD-000359,Honey Crunch,Opening Stock,1606.0,OPEN-PROD-000359,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000718,2026-07-13,PROD-000359,Honey Crunch,Stock Received,587.0,GRN-000718,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000719,2026-06-15,PROD-000360,Cocoa Sandwich,Opening Stock,2179.0,OPEN-PROD-000360,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000720,2026-07-10,PROD-000360,Cocoa Sandwich,Stock Received,209.0,GRN-000720,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000721,2026-06-15,PROD-000361,Honey Crunch,Opening Stock,1220.0,OPEN-PROD-000361,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000722,2026-07-10,PROD-000361,Honey Crunch,Stock Received,567.0,GRN-000722,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000723,2026-06-15,PROD-000362,Milk Crunch,Opening Stock,1304.0,OPEN-PROD-000362,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000724,2026-08-08,PROD-000362,Milk Crunch,Stock Received,1050.0,GRN-000724,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000725,2026-06-15,PROD-000363,Coconut Crunch,Opening Stock,996.0,OPEN-PROD-000363,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000726,2026-08-13,PROD-000363,Coconut Crunch,Stock Received,164.0,GRN-000726,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000727,2026-06-15,PROD-000364,Rich Chocolate,Opening Stock,1346.0,OPEN-PROD-000364,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000728,2026-07-09,PROD-000364,Rich Chocolate,Stock Received,890.0,GRN-000728,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000729,2026-06-15,PROD-000365,Butter Delight,Opening Stock,683.0,OPEN-PROD-000365,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000730,2026-07-01,PROD-000365,Butter Delight,Stock Received,1003.0,GRN-000730,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000731,2026-06-15,PROD-000366,Cocoa Sandwich,Opening Stock,1774.0,OPEN-PROD-000366,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000732,2026-08-03,PROD-000366,Cocoa Sandwich,Stock Received,465.0,GRN-000732,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000733,2026-06-15,PROD-000367,Vanilla Cream,Opening Stock,985.0,OPEN-PROD-000367,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000734,2026-07-09,PROD-000367,Vanilla Cream,Stock Received,437.0,GRN-000734,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000735,2026-06-15,PROD-000368,Cocoa Sandwich,Opening Stock,908.0,OPEN-PROD-000368,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000736,2026-07-23,PROD-000368,Cocoa Sandwich,Stock Received,1133.0,GRN-000736,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000737,2026-06-15,PROD-000369,Butter Delight,Opening Stock,1318.0,OPEN-PROD-000369,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000738,2026-07-03,PROD-000369,Butter Delight,Stock Received,671.0,GRN-000738,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000739,2026-06-15,PROD-000370,Golden Crunch,Opening Stock,1842.0,OPEN-PROD-000370,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000740,2026-07-15,PROD-000370,Golden Crunch,Stock Received,445.0,GRN-000740,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000741,2026-06-15,PROD-000371,Butter Delight,Opening Stock,689.0,OPEN-PROD-000371,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000742,2026-07-22,PROD-000371,Butter Delight,Stock Received,138.0,GRN-000742,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000743,2026-06-15,PROD-000372,Milk Crunch,Opening Stock,652.0,OPEN-PROD-000372,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000744,2026-07-08,PROD-000372,Milk Crunch,Stock Received,366.0,GRN-000744,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000745,2026-06-15,PROD-000373,Honey Crunch,Opening Stock,1558.0,OPEN-PROD-000373,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000746,2026-07-14,PROD-000373,Honey Crunch,Stock Received,598.0,GRN-000746,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000747,2026-06-15,PROD-000374,Chocolate Delight,Opening Stock,1920.0,OPEN-PROD-000374,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000748,2026-07-01,PROD-000374,Chocolate Delight,Stock Received,405.0,GRN-000748,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000749,2026-06-15,PROD-000375,Family Pack,Opening Stock,2136.0,OPEN-PROD-000375,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000750,2026-08-02,PROD-000375,Family Pack,Stock Received,760.0,GRN-000750,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000751,2026-06-15,PROD-000376,Caramel Cream,Opening Stock,1513.0,OPEN-PROD-000376,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000752,2026-08-05,PROD-000376,Caramel Cream,Stock Received,336.0,GRN-000752,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000753,2026-06-15,PROD-000377,Cocoa Sandwich,Opening Stock,503.0,OPEN-PROD-000377,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000754,2026-08-08,PROD-000377,Cocoa Sandwich,Stock Received,877.0,GRN-000754,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000755,2026-06-15,PROD-000378,Chocolate Delight,Opening Stock,1929.0,OPEN-PROD-000378,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000756,2026-07-04,PROD-000378,Chocolate Delight,Stock Received,1119.0,GRN-000756,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000757,2026-06-15,PROD-000379,Family Pack,Opening Stock,1357.0,OPEN-PROD-000379,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000758,2026-07-12,PROD-000379,Family Pack,Stock Received,793.0,GRN-000758,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000759,2026-06-15,PROD-000380,Chocolate Delight,Opening Stock,1229.0,OPEN-PROD-000380,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000760,2026-07-01,PROD-000380,Chocolate Delight,Stock Received,270.0,GRN-000760,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000761,2026-06-15,PROD-000381,Coconut Crunch,Opening Stock,1710.0,OPEN-PROD-000381,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000762,2026-07-03,PROD-000381,Coconut Crunch,Stock Received,143.0,GRN-000762,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000763,2026-06-15,PROD-000382,Golden Crunch,Opening Stock,1016.0,OPEN-PROD-000382,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000764,2026-08-06,PROD-000382,Golden Crunch,Stock Received,587.0,GRN-000764,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000765,2026-06-15,PROD-000383,Butter Delight,Opening Stock,1272.0,OPEN-PROD-000383,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000766,2026-07-25,PROD-000383,Butter Delight,Stock Received,601.0,GRN-000766,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000767,2026-06-15,PROD-000384,Classic Cream,Opening Stock,1717.0,OPEN-PROD-000384,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000768,2026-07-25,PROD-000384,Classic Cream,Stock Received,467.0,GRN-000768,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000769,2026-06-15,PROD-000385,Golden Crunch,Opening Stock,2028.0,OPEN-PROD-000385,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000770,2026-08-13,PROD-000385,Golden Crunch,Stock Received,1188.0,GRN-000770,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000771,2026-06-15,PROD-000386,Strawberry Cream,Opening Stock,558.0,OPEN-PROD-000386,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000772,2026-08-02,PROD-000386,Strawberry Cream,Stock Received,801.0,GRN-000772,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000773,2026-06-15,PROD-000387,Strawberry Cream,Opening Stock,1963.0,OPEN-PROD-000387,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000774,2026-07-07,PROD-000387,Strawberry Cream,Stock Received,1038.0,GRN-000774,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000775,2026-06-15,PROD-000388,Honey Crunch,Opening Stock,698.0,OPEN-PROD-000388,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000776,2026-07-02,PROD-000388,Honey Crunch,Stock Received,596.0,GRN-000776,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000777,2026-06-15,PROD-000389,Chocolate Delight,Opening Stock,1465.0,OPEN-PROD-000389,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000778,2026-07-06,PROD-000389,Chocolate Delight,Stock Received,425.0,GRN-000778,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000779,2026-06-15,PROD-000390,Caramel Cream,Opening Stock,1529.0,OPEN-PROD-000390,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000780,2026-08-06,PROD-000390,Caramel Cream,Stock Received,1079.0,GRN-000780,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000781,2026-06-15,PROD-000391,Caramel Cream,Opening Stock,638.0,OPEN-PROD-000391,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000782,2026-08-13,PROD-000391,Caramel Cream,Stock Received,360.0,GRN-000782,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000783,2026-06-15,PROD-000392,Premium Wafer,Opening Stock,1755.0,OPEN-PROD-000392,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000784,2026-07-25,PROD-000392,Premium Wafer,Stock Received,1180.0,GRN-000784,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000785,2026-06-15,PROD-000393,Cocoa Sandwich,Opening Stock,802.0,OPEN-PROD-000393,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000786,2026-07-28,PROD-000393,Cocoa Sandwich,Stock Received,934.0,GRN-000786,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000787,2026-06-15,PROD-000394,Coconut Crunch,Opening Stock,541.0,OPEN-PROD-000394,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000788,2026-07-06,PROD-000394,Coconut Crunch,Stock Received,1009.0,GRN-000788,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000789,2026-06-15,PROD-000395,Cocoa Sandwich,Opening Stock,1105.0,OPEN-PROD-000395,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000790,2026-07-20,PROD-000395,Cocoa Sandwich,Stock Received,408.0,GRN-000790,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000791,2026-06-15,PROD-000396,Family Pack,Opening Stock,1797.0,OPEN-PROD-000396,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000792,2026-07-16,PROD-000396,Family Pack,Stock Received,110.0,GRN-000792,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000793,2026-06-15,PROD-000397,Premium Wafer,Opening Stock,1702.0,OPEN-PROD-000397,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000794,2026-08-07,PROD-000397,Premium Wafer,Stock Received,348.0,GRN-000794,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000795,2026-06-15,PROD-000398,Chocolate Delight,Opening Stock,965.0,OPEN-PROD-000398,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000796,2026-07-16,PROD-000398,Chocolate Delight,Stock Received,765.0,GRN-000796,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000797,2026-06-15,PROD-000399,Rich Chocolate,Opening Stock,2158.0,OPEN-PROD-000399,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000798,2026-07-20,PROD-000399,Rich Chocolate,Stock Received,239.0,GRN-000798,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000799,2026-06-15,PROD-000400,Strawberry Cream,Opening Stock,1060.0,OPEN-PROD-000400,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000800,2026-07-16,PROD-000400,Strawberry Cream,Stock Received,998.0,GRN-000800,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000801,2026-06-15,PROD-000401,Family Pack,Opening Stock,1990.0,OPEN-PROD-000401,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000802,2026-07-28,PROD-000401,Family Pack,Stock Received,709.0,GRN-000802,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000803,2026-06-15,PROD-000402,Coconut Crunch,Opening Stock,1413.0,OPEN-PROD-000402,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000804,2026-07-14,PROD-000402,Coconut Crunch,Stock Received,940.0,GRN-000804,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000805,2026-06-15,PROD-000403,Milk Crunch,Opening Stock,1107.0,OPEN-PROD-000403,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000806,2026-08-03,PROD-000403,Milk Crunch,Stock Received,741.0,GRN-000806,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000807,2026-06-15,PROD-000404,Butter Delight,Opening Stock,708.0,OPEN-PROD-000404,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000808,2026-07-31,PROD-000404,Butter Delight,Stock Received,162.0,GRN-000808,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000809,2026-06-15,PROD-000405,Classic Cream,Opening Stock,936.0,OPEN-PROD-000405,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000810,2026-07-19,PROD-000405,Classic Cream,Stock Received,703.0,GRN-000810,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000811,2026-06-15,PROD-000406,Caramel Cream,Opening Stock,960.0,OPEN-PROD-000406,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000812,2026-08-03,PROD-000406,Caramel Cream,Stock Received,766.0,GRN-000812,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000813,2026-06-15,PROD-000407,Butter Delight,Opening Stock,2138.0,OPEN-PROD-000407,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000814,2026-07-30,PROD-000407,Butter Delight,Stock Received,307.0,GRN-000814,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000815,2026-06-15,PROD-000408,Premium Wafer,Opening Stock,1288.0,OPEN-PROD-000408,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000816,2026-07-06,PROD-000408,Premium Wafer,Stock Received,363.0,GRN-000816,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000817,2026-06-15,PROD-000409,Family Pack,Opening Stock,1186.0,OPEN-PROD-000409,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000818,2026-07-19,PROD-000409,Family Pack,Stock Received,1198.0,GRN-000818,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000819,2026-06-15,PROD-000410,Honey Crunch,Opening Stock,925.0,OPEN-PROD-000410,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000820,2026-07-10,PROD-000410,Honey Crunch,Stock Received,720.0,GRN-000820,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000821,2026-06-15,PROD-000411,Classic Cream,Opening Stock,1602.0,OPEN-PROD-000411,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000822,2026-06-30,PROD-000411,Classic Cream,Stock Received,874.0,GRN-000822,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000823,2026-06-15,PROD-000412,Honey Crunch,Opening Stock,1039.0,OPEN-PROD-000412,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000824,2026-07-16,PROD-000412,Honey Crunch,Stock Received,811.0,GRN-000824,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000825,2026-06-15,PROD-000413,Chocolate Delight,Opening Stock,996.0,OPEN-PROD-000413,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000826,2026-07-12,PROD-000413,Chocolate Delight,Stock Received,459.0,GRN-000826,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000827,2026-06-15,PROD-000414,Coconut Crunch,Opening Stock,1118.0,OPEN-PROD-000414,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000828,2026-07-05,PROD-000414,Coconut Crunch,Stock Received,176.0,GRN-000828,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000829,2026-06-15,PROD-000415,Classic Cream,Opening Stock,2189.0,OPEN-PROD-000415,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000830,2026-07-25,PROD-000415,Classic Cream,Stock Received,500.0,GRN-000830,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000831,2026-06-15,PROD-000416,Rich Chocolate,Opening Stock,847.0,OPEN-PROD-000416,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000832,2026-07-02,PROD-000416,Rich Chocolate,Stock Received,981.0,GRN-000832,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000833,2026-06-15,PROD-000417,Strawberry Cream,Opening Stock,1688.0,OPEN-PROD-000417,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000834,2026-07-16,PROD-000417,Strawberry Cream,Stock Received,356.0,GRN-000834,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000835,2026-06-15,PROD-000418,Butter Delight,Opening Stock,1268.0,OPEN-PROD-000418,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000836,2026-07-01,PROD-000418,Butter Delight,Stock Received,1117.0,GRN-000836,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000837,2026-06-15,PROD-000419,Rich Chocolate,Opening Stock,621.0,OPEN-PROD-000419,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000838,2026-08-11,PROD-000419,Rich Chocolate,Stock Received,728.0,GRN-000838,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000839,2026-06-15,PROD-000420,Classic Cream,Opening Stock,2137.0,OPEN-PROD-000420,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000840,2026-07-23,PROD-000420,Classic Cream,Stock Received,1152.0,GRN-000840,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000841,2026-06-15,PROD-000421,Premium Wafer,Opening Stock,1650.0,OPEN-PROD-000421,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000842,2026-07-18,PROD-000421,Premium Wafer,Stock Received,710.0,GRN-000842,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000843,2026-06-15,PROD-000422,Premium Wafer,Opening Stock,962.0,OPEN-PROD-000422,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000844,2026-07-12,PROD-000422,Premium Wafer,Stock Received,1195.0,GRN-000844,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000845,2026-06-15,PROD-000423,Vanilla Cream,Opening Stock,1084.0,OPEN-PROD-000423,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000846,2026-07-22,PROD-000423,Vanilla Cream,Stock Received,1136.0,GRN-000846,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000847,2026-06-15,PROD-000424,Strawberry Cream,Opening Stock,1218.0,OPEN-PROD-000424,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000848,2026-07-11,PROD-000424,Strawberry Cream,Stock Received,897.0,GRN-000848,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000849,2026-06-15,PROD-000425,Chocolate Delight,Opening Stock,951.0,OPEN-PROD-000425,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000850,2026-07-18,PROD-000425,Chocolate Delight,Stock Received,127.0,GRN-000850,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000851,2026-06-15,PROD-000426,Cocoa Sandwich,Opening Stock,1576.0,OPEN-PROD-000426,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000852,2026-07-20,PROD-000426,Cocoa Sandwich,Stock Received,979.0,GRN-000852,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000853,2026-06-15,PROD-000427,Premium Wafer,Opening Stock,1775.0,OPEN-PROD-000427,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000854,2026-07-29,PROD-000427,Premium Wafer,Stock Received,845.0,GRN-000854,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000855,2026-06-15,PROD-000428,Caramel Cream,Opening Stock,1645.0,OPEN-PROD-000428,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000856,2026-07-22,PROD-000428,Caramel Cream,Stock Received,873.0,GRN-000856,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000857,2026-06-15,PROD-000429,Rich Chocolate,Opening Stock,2021.0,OPEN-PROD-000429,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000858,2026-08-07,PROD-000429,Rich Chocolate,Stock Received,159.0,GRN-000858,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000859,2026-06-15,PROD-000430,Butter Delight,Opening Stock,983.0,OPEN-PROD-000430,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000860,2026-08-02,PROD-000430,Butter Delight,Stock Received,540.0,GRN-000860,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000861,2026-06-15,PROD-000431,Milk Crunch,Opening Stock,1504.0,OPEN-PROD-000431,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000862,2026-07-14,PROD-000431,Milk Crunch,Stock Received,906.0,GRN-000862,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000863,2026-06-15,PROD-000432,Golden Crunch,Opening Stock,2167.0,OPEN-PROD-000432,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000864,2026-07-17,PROD-000432,Golden Crunch,Stock Received,422.0,GRN-000864,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000865,2026-06-15,PROD-000433,Premium Wafer,Opening Stock,1550.0,OPEN-PROD-000433,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000866,2026-07-21,PROD-000433,Premium Wafer,Stock Received,488.0,GRN-000866,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000867,2026-06-15,PROD-000434,Vanilla Cream,Opening Stock,563.0,OPEN-PROD-000434,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000868,2026-08-07,PROD-000434,Vanilla Cream,Stock Received,273.0,GRN-000868,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000869,2026-06-15,PROD-000435,Caramel Cream,Opening Stock,739.0,OPEN-PROD-000435,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000870,2026-07-19,PROD-000435,Caramel Cream,Stock Received,545.0,GRN-000870,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000871,2026-06-15,PROD-000436,Golden Crunch,Opening Stock,752.0,OPEN-PROD-000436,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000872,2026-07-06,PROD-000436,Golden Crunch,Stock Received,1036.0,GRN-000872,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000873,2026-06-15,PROD-000437,Honey Crunch,Opening Stock,1210.0,OPEN-PROD-000437,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000874,2026-07-04,PROD-000437,Honey Crunch,Stock Received,1156.0,GRN-000874,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000875,2026-06-15,PROD-000438,Family Pack,Opening Stock,701.0,OPEN-PROD-000438,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000876,2026-07-29,PROD-000438,Family Pack,Stock Received,952.0,GRN-000876,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000877,2026-06-15,PROD-000439,Coconut Crunch,Opening Stock,1157.0,OPEN-PROD-000439,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000878,2026-08-13,PROD-000439,Coconut Crunch,Stock Received,736.0,GRN-000878,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000879,2026-06-15,PROD-000440,Classic Crackers,Opening Stock,698.0,OPEN-PROD-000440,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000880,2026-07-23,PROD-000440,Classic Crackers,Stock Received,235.0,GRN-000880,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000881,2026-06-15,PROD-000441,Golden Crunch,Opening Stock,1849.0,OPEN-PROD-000441,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000882,2026-07-15,PROD-000441,Golden Crunch,Stock Received,408.0,GRN-000882,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000883,2026-06-15,PROD-000442,Classic Cream,Opening Stock,1784.0,OPEN-PROD-000442,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000884,2026-08-07,PROD-000442,Classic Cream,Stock Received,947.0,GRN-000884,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000885,2026-06-15,PROD-000443,Classic Cream,Opening Stock,1818.0,OPEN-PROD-000443,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000886,2026-08-01,PROD-000443,Classic Cream,Stock Received,316.0,GRN-000886,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000887,2026-06-15,PROD-000444,Chocolate Delight,Opening Stock,2133.0,OPEN-PROD-000444,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000888,2026-07-23,PROD-000444,Chocolate Delight,Stock Received,1094.0,GRN-000888,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000889,2026-06-15,PROD-000445,Classic Crackers,Opening Stock,1717.0,OPEN-PROD-000445,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000890,2026-08-06,PROD-000445,Classic Crackers,Stock Received,470.0,GRN-000890,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000891,2026-06-15,PROD-000446,Chocolate Delight,Opening Stock,677.0,OPEN-PROD-000446,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000892,2026-07-29,PROD-000446,Chocolate Delight,Stock Received,809.0,GRN-000892,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000893,2026-06-15,PROD-000447,Caramel Cream,Opening Stock,805.0,OPEN-PROD-000447,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000894,2026-07-15,PROD-000447,Caramel Cream,Stock Received,1008.0,GRN-000894,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000895,2026-06-15,PROD-000448,Caramel Cream,Opening Stock,703.0,OPEN-PROD-000448,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000896,2026-08-05,PROD-000448,Caramel Cream,Stock Received,967.0,GRN-000896,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000897,2026-06-15,PROD-000449,Butter Delight,Opening Stock,686.0,OPEN-PROD-000449,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000898,2026-07-01,PROD-000449,Butter Delight,Stock Received,142.0,GRN-000898,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000899,2026-06-15,PROD-000450,Honey Crunch,Opening Stock,1449.0,OPEN-PROD-000450,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000900,2026-08-09,PROD-000450,Honey Crunch,Stock Received,966.0,GRN-000900,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000901,2026-06-15,PROD-000451,Butter Delight,Opening Stock,1404.0,OPEN-PROD-000451,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000902,2026-08-10,PROD-000451,Butter Delight,Stock Received,1119.0,GRN-000902,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000903,2026-06-15,PROD-000452,Coconut Crunch,Opening Stock,1419.0,OPEN-PROD-000452,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000904,2026-07-22,PROD-000452,Coconut Crunch,Stock Received,1073.0,GRN-000904,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000905,2026-06-15,PROD-000453,Classic Crackers,Opening Stock,2030.0,OPEN-PROD-000453,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000906,2026-08-10,PROD-000453,Classic Crackers,Stock Received,301.0,GRN-000906,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000907,2026-06-15,PROD-000454,Vanilla Cream,Opening Stock,1334.0,OPEN-PROD-000454,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000908,2026-07-17,PROD-000454,Vanilla Cream,Stock Received,471.0,GRN-000908,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000909,2026-06-15,PROD-000455,Honey Crunch,Opening Stock,1811.0,OPEN-PROD-000455,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000910,2026-07-28,PROD-000455,Honey Crunch,Stock Received,240.0,GRN-000910,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000911,2026-06-15,PROD-000456,Classic Crackers,Opening Stock,1959.0,OPEN-PROD-000456,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000912,2026-07-29,PROD-000456,Classic Crackers,Stock Received,1173.0,GRN-000912,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000913,2026-06-15,PROD-000457,Premium Wafer,Opening Stock,1369.0,OPEN-PROD-000457,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000914,2026-07-22,PROD-000457,Premium Wafer,Stock Received,323.0,GRN-000914,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000915,2026-06-15,PROD-000458,Strawberry Cream,Opening Stock,845.0,OPEN-PROD-000458,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000916,2026-08-04,PROD-000458,Strawberry Cream,Stock Received,122.0,GRN-000916,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000917,2026-06-15,PROD-000459,Caramel Cream,Opening Stock,1733.0,OPEN-PROD-000459,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000918,2026-07-28,PROD-000459,Caramel Cream,Stock Received,729.0,GRN-000918,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000919,2026-06-15,PROD-000460,Butter Delight,Opening Stock,2089.0,OPEN-PROD-000460,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000920,2026-08-07,PROD-000460,Butter Delight,Stock Received,990.0,GRN-000920,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000921,2026-06-15,PROD-000461,Cocoa Sandwich,Opening Stock,1923.0,OPEN-PROD-000461,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000922,2026-07-21,PROD-000461,Cocoa Sandwich,Stock Received,563.0,GRN-000922,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000923,2026-06-15,PROD-000462,Honey Crunch,Opening Stock,2040.0,OPEN-PROD-000462,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000924,2026-07-18,PROD-000462,Honey Crunch,Stock Received,255.0,GRN-000924,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000925,2026-06-15,PROD-000463,Rich Chocolate,Opening Stock,1797.0,OPEN-PROD-000463,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000926,2026-07-08,PROD-000463,Rich Chocolate,Stock Received,269.0,GRN-000926,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000927,2026-06-15,PROD-000464,Milk Crunch,Opening Stock,2073.0,OPEN-PROD-000464,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000928,2026-07-24,PROD-000464,Milk Crunch,Stock Received,641.0,GRN-000928,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000929,2026-06-15,PROD-000465,Chocolate Delight,Opening Stock,1374.0,OPEN-PROD-000465,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000930,2026-07-30,PROD-000465,Chocolate Delight,Stock Received,736.0,GRN-000930,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000931,2026-06-15,PROD-000466,Vanilla Cream,Opening Stock,2018.0,OPEN-PROD-000466,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000932,2026-08-02,PROD-000466,Vanilla Cream,Stock Received,1172.0,GRN-000932,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000933,2026-06-15,PROD-000467,Caramel Cream,Opening Stock,1580.0,OPEN-PROD-000467,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000934,2026-07-28,PROD-000467,Caramel Cream,Stock Received,958.0,GRN-000934,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000935,2026-06-15,PROD-000468,Premium Wafer,Opening Stock,569.0,OPEN-PROD-000468,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000936,2026-07-11,PROD-000468,Premium Wafer,Stock Received,615.0,GRN-000936,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000937,2026-06-15,PROD-000469,Rich Chocolate,Opening Stock,1442.0,OPEN-PROD-000469,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000938,2026-07-18,PROD-000469,Rich Chocolate,Stock Received,694.0,GRN-000938,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000939,2026-06-15,PROD-000470,Premium Wafer,Opening Stock,2012.0,OPEN-PROD-000470,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000940,2026-07-31,PROD-000470,Premium Wafer,Stock Received,633.0,GRN-000940,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000941,2026-06-15,PROD-000471,Classic Cream,Opening Stock,1949.0,OPEN-PROD-000471,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000942,2026-08-03,PROD-000471,Classic Cream,Stock Received,1004.0,GRN-000942,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000943,2026-06-15,PROD-000472,Family Pack,Opening Stock,1232.0,OPEN-PROD-000472,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000944,2026-07-25,PROD-000472,Family Pack,Stock Received,1159.0,GRN-000944,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000945,2026-06-15,PROD-000473,Classic Crackers,Opening Stock,1043.0,OPEN-PROD-000473,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000946,2026-08-06,PROD-000473,Classic Crackers,Stock Received,737.0,GRN-000946,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000947,2026-06-15,PROD-000474,Premium Wafer,Opening Stock,1741.0,OPEN-PROD-000474,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000948,2026-08-13,PROD-000474,Premium Wafer,Stock Received,605.0,GRN-000948,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000949,2026-06-15,PROD-000475,Chocolate Delight,Opening Stock,905.0,OPEN-PROD-000475,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000950,2026-06-30,PROD-000475,Chocolate Delight,Stock Received,791.0,GRN-000950,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000951,2026-06-15,PROD-000476,Honey Crunch,Opening Stock,1151.0,OPEN-PROD-000476,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000952,2026-07-02,PROD-000476,Honey Crunch,Stock Received,351.0,GRN-000952,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000953,2026-06-15,PROD-000477,Classic Cream,Opening Stock,1189.0,OPEN-PROD-000477,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000954,2026-07-03,PROD-000477,Classic Cream,Stock Received,931.0,GRN-000954,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000955,2026-06-15,PROD-000478,Vanilla Cream,Opening Stock,1368.0,OPEN-PROD-000478,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000956,2026-07-06,PROD-000478,Vanilla Cream,Stock Received,1045.0,GRN-000956,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000957,2026-06-15,PROD-000479,Butter Delight,Opening Stock,1270.0,OPEN-PROD-000479,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000958,2026-07-21,PROD-000479,Butter Delight,Stock Received,318.0,GRN-000958,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000959,2026-06-15,PROD-000480,Cocoa Sandwich,Opening Stock,2186.0,OPEN-PROD-000480,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000960,2026-07-01,PROD-000480,Cocoa Sandwich,Stock Received,981.0,GRN-000960,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000961,2026-06-15,PROD-000481,Caramel Cream,Opening Stock,1427.0,OPEN-PROD-000481,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000962,2026-07-08,PROD-000481,Caramel Cream,Stock Received,764.0,GRN-000962,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000963,2026-06-15,PROD-000482,Coconut Crunch,Opening Stock,1272.0,OPEN-PROD-000482,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000964,2026-08-13,PROD-000482,Coconut Crunch,Stock Received,833.0,GRN-000964,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000965,2026-06-15,PROD-000483,Coconut Crunch,Opening Stock,2057.0,OPEN-PROD-000483,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000966,2026-07-20,PROD-000483,Coconut Crunch,Stock Received,829.0,GRN-000966,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000967,2026-06-15,PROD-000484,Coconut Crunch,Opening Stock,2006.0,OPEN-PROD-000484,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000968,2026-07-28,PROD-000484,Coconut Crunch,Stock Received,818.0,GRN-000968,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000969,2026-06-15,PROD-000485,Milk Crunch,Opening Stock,2102.0,OPEN-PROD-000485,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000970,2026-08-13,PROD-000485,Milk Crunch,Stock Received,1082.0,GRN-000970,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000971,2026-06-15,PROD-000486,Premium Wafer,Opening Stock,1237.0,OPEN-PROD-000486,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000972,2026-07-15,PROD-000486,Premium Wafer,Stock Received,946.0,GRN-000972,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000973,2026-06-15,PROD-000487,Milk Crunch,Opening Stock,590.0,OPEN-PROD-000487,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000974,2026-07-26,PROD-000487,Milk Crunch,Stock Received,147.0,GRN-000974,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000975,2026-06-15,PROD-000488,Caramel Cream,Opening Stock,1606.0,OPEN-PROD-000488,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000976,2026-08-06,PROD-000488,Caramel Cream,Stock Received,211.0,GRN-000976,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000977,2026-06-15,PROD-000489,Caramel Cream,Opening Stock,2076.0,OPEN-PROD-000489,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000978,2026-07-17,PROD-000489,Caramel Cream,Stock Received,777.0,GRN-000978,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000979,2026-06-15,PROD-000490,Honey Crunch,Opening Stock,1035.0,OPEN-PROD-000490,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000980,2026-07-25,PROD-000490,Honey Crunch,Stock Received,886.0,GRN-000980,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000981,2026-06-15,PROD-000491,Classic Cream,Opening Stock,1953.0,OPEN-PROD-000491,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000982,2026-08-13,PROD-000491,Classic Cream,Stock Received,627.0,GRN-000982,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000983,2026-06-15,PROD-000492,Strawberry Cream,Opening Stock,922.0,OPEN-PROD-000492,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000984,2026-08-10,PROD-000492,Strawberry Cream,Stock Received,547.0,GRN-000984,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000985,2026-06-15,PROD-000493,Chocolate Delight,Opening Stock,659.0,OPEN-PROD-000493,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000986,2026-08-02,PROD-000493,Chocolate Delight,Stock Received,568.0,GRN-000986,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000987,2026-06-15,PROD-000494,Cocoa Sandwich,Opening Stock,601.0,OPEN-PROD-000494,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000988,2026-07-05,PROD-000494,Cocoa Sandwich,Stock Received,851.0,GRN-000988,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000989,2026-06-15,PROD-000495,Family Pack,Opening Stock,1605.0,OPEN-PROD-000495,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000990,2026-08-07,PROD-000495,Family Pack,Stock Received,1034.0,GRN-000990,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000991,2026-06-15,PROD-000496,Vanilla Cream,Opening Stock,1884.0,OPEN-PROD-000496,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000992,2026-07-11,PROD-000496,Vanilla Cream,Stock Received,1198.0,GRN-000992,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000993,2026-06-15,PROD-000497,Golden Crunch,Opening Stock,1796.0,OPEN-PROD-000497,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000994,2026-07-26,PROD-000497,Golden Crunch,Stock Received,211.0,GRN-000994,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000995,2026-06-15,PROD-000498,Chocolate Delight,Opening Stock,759.0,OPEN-PROD-000498,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000996,2026-07-18,PROD-000498,Chocolate Delight,Stock Received,321.0,GRN-000996,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000997,2026-06-15,PROD-000499,Strawberry Cream,Opening Stock,969.0,OPEN-PROD-000499,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-000998,2026-06-30,PROD-000499,Strawberry Cream,Stock Received,338.0,GRN-000998,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-000999,2026-06-15,PROD-000500,Golden Crunch,Opening Stock,636.0,OPEN-PROD-000500,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-001000,2026-08-09,PROD-000500,Golden Crunch,Stock Received,314.0,GRN-001000,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-001001,2026-06-15,PROD-000501,Caramel Cream,Opening Stock,1706.0,OPEN-PROD-000501,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-001002,2026-08-11,PROD-000501,Caramel Cream,Stock Received,894.0,GRN-001002,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-001003,2026-06-15,PROD-000502,Classic Crackers,Opening Stock,780.0,OPEN-PROD-000502,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-001004,2026-07-09,PROD-000502,Classic Crackers,Stock Received,1002.0,GRN-001004,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-001005,2026-06-15,PROD-000503,Cocoa Sandwich,Opening Stock,2006.0,OPEN-PROD-000503,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-001006,2026-07-26,PROD-000503,Cocoa Sandwich,Stock Received,149.0,GRN-001006,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-001007,2026-06-15,PROD-000504,Premium Wafer,Opening Stock,1337.0,OPEN-PROD-000504,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-001008,2026-07-09,PROD-000504,Premium Wafer,Stock Received,859.0,GRN-001008,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-001009,2026-06-15,PROD-000505,Caramel Cream,Opening Stock,1885.0,OPEN-PROD-000505,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-001010,2026-08-01,PROD-000505,Caramel Cream,Stock Received,1003.0,GRN-001010,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-001011,2026-06-15,PROD-000506,Family Pack,Opening Stock,604.0,OPEN-PROD-000506,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-001012,2026-07-25,PROD-000506,Family Pack,Stock Received,949.0,GRN-001012,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-001013,2026-06-15,PROD-000507,Family Pack,Opening Stock,806.0,OPEN-PROD-000507,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-001014,2026-07-04,PROD-000507,Family Pack,Stock Received,647.0,GRN-001014,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-001015,2026-06-15,PROD-000508,Caramel Cream,Opening Stock,1598.0,OPEN-PROD-000508,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-001016,2026-07-06,PROD-000508,Caramel Cream,Stock Received,437.0,GRN-001016,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-001017,2026-06-15,PROD-000509,Strawberry Cream,Opening Stock,1313.0,OPEN-PROD-000509,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-001018,2026-08-09,PROD-000509,Strawberry Cream,Stock Received,199.0,GRN-001018,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-001019,2026-06-15,PROD-000510,Butter Delight,Opening Stock,1428.0,OPEN-PROD-000510,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-001020,2026-07-14,PROD-000510,Butter Delight,Stock Received,944.0,GRN-001020,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-001021,2026-06-15,PROD-000511,Butter Delight,Opening Stock,1403.0,OPEN-PROD-000511,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-001022,2026-08-13,PROD-000511,Butter Delight,Stock Received,400.0,GRN-001022,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-001023,2026-06-15,PROD-000512,Strawberry Cream,Opening Stock,1088.0,OPEN-PROD-000512,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-001024,2026-08-05,PROD-000512,Strawberry Cream,Stock Received,293.0,GRN-001024,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-001025,2026-06-15,PROD-000513,Caramel Cream,Opening Stock,1380.0,OPEN-PROD-000513,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-001026,2026-07-27,PROD-000513,Caramel Cream,Stock Received,492.0,GRN-001026,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-001027,2026-06-15,PROD-000514,Milk Crunch,Opening Stock,2016.0,OPEN-PROD-000514,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-001028,2026-07-11,PROD-000514,Milk Crunch,Stock Received,1046.0,GRN-001028,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-001029,2026-06-15,PROD-000515,Butter Delight,Opening Stock,1772.0,OPEN-PROD-000515,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-001030,2026-07-31,PROD-000515,Butter Delight,Stock Received,408.0,GRN-001030,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-001031,2026-06-15,PROD-000516,Chocolate Delight,Opening Stock,1158.0,OPEN-PROD-000516,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-001032,2026-06-30,PROD-000516,Chocolate Delight,Stock Received,426.0,GRN-001032,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-001033,2026-06-15,PROD-000517,Cocoa Sandwich,Opening Stock,1104.0,OPEN-PROD-000517,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-001034,2026-08-07,PROD-000517,Cocoa Sandwich,Stock Received,163.0,GRN-001034,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-001035,2026-06-15,PROD-000518,Classic Cream,Opening Stock,895.0,OPEN-PROD-000518,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-001036,2026-07-20,PROD-000518,Classic Cream,Stock Received,1055.0,GRN-001036,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-001037,2026-06-15,PROD-000519,Coconut Crunch,Opening Stock,657.0,OPEN-PROD-000519,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-001038,2026-07-19,PROD-000519,Coconut Crunch,Stock Received,836.0,GRN-001038,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-001039,2026-06-15,PROD-000520,Vanilla Cream,Opening Stock,652.0,OPEN-PROD-000520,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-001040,2026-07-21,PROD-000520,Vanilla Cream,Stock Received,120.0,GRN-001040,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-001041,2026-06-15,PROD-000521,Chocolate Delight,Opening Stock,1681.0,OPEN-PROD-000521,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-001042,2026-07-27,PROD-000521,Chocolate Delight,Stock Received,289.0,GRN-001042,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-001043,2026-06-15,PROD-000522,Classic Crackers,Opening Stock,1631.0,OPEN-PROD-000522,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-001044,2026-08-01,PROD-000522,Classic Crackers,Stock Received,548.0,GRN-001044,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-001045,2026-06-15,PROD-000523,Classic Crackers,Opening Stock,1196.0,OPEN-PROD-000523,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-001046,2026-08-08,PROD-000523,Classic Crackers,Stock Received,624.0,GRN-001046,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-001047,2026-06-15,PROD-000524,Vanilla Cream,Opening Stock,1121.0,OPEN-PROD-000524,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-001048,2026-07-10,PROD-000524,Vanilla Cream,Stock Received,327.0,GRN-001048,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-001049,2026-06-15,PROD-000525,Caramel Cream,Opening Stock,649.0,OPEN-PROD-000525,Main Warehouse,Demo Administrator,Initial demo stock
+STOCK-001050,2026-07-15,PROD-000525,Caramel Cream,Stock Received,561.0,GRN-001050,Main Warehouse,Demo Administrator,Demo replenishment
+STOCK-001051,2026-07-10,PROD-000141,Classic Crackers,Stock Sold,15.0,SALE-2026-000001,Sani Umar,Demo Administrator,Linked to demo sale
+STOCK-001052,2026-07-29,PROD-000400,Strawberry Cream,Stock Sold,21.0,SALE-2026-000002,Khadija Ibrahim,Demo Administrator,Linked to demo sale
+STOCK-001053,2026-08-02,PROD-000369,Butter Delight,Stock Sold,35.0,SALE-2026-000003,Maryam Suleiman,Demo Administrator,Linked to demo sale
+STOCK-001054,2026-08-06,PROD-000051,Classic Cream,Stock Sold,40.0,SALE-2026-000004,Aliyu Usman,Demo Administrator,Linked to demo sale
+STOCK-001055,2026-07-28,PROD-000035,Milk Crunch,Stock Sold,24.0,SALE-2026-000005,Zainab Ahmad,Demo Administrator,Linked to demo sale
+STOCK-001056,2026-07-20,PROD-000213,Strawberry Cream,Stock Sold,24.0,SALE-2026-000006,Asma'u Ibrahim,Demo Administrator,Linked to demo sale
+STOCK-001057,2026-06-23,PROD-000074,Premium Wafer,Stock Sold,35.0,SALE-2026-000007,Safiya Lawal,Demo Administrator,Linked to demo sale
+STOCK-001058,2026-08-06,PROD-000070,Strawberry Cream,Stock Sold,23.0,SALE-2026-000008,Maryam Aliyu,Demo Administrator,Linked to demo sale
+STOCK-001059,2026-07-04,PROD-000012,Premium Wafer,Stock Sold,6.0,SALE-2026-000009,Safiya Abdullahi,Demo Administrator,Linked to demo sale
+STOCK-001060,2026-07-05,PROD-000097,Family Pack,Stock Sold,21.0,SALE-2026-000010,Rukayya Bello,Demo Administrator,Linked to demo sale
+STOCK-001061,2026-07-02,PROD-000225,Vanilla Cream,Stock Sold,7.0,SALE-2026-000011,Yusuf Ahmad,Demo Administrator,Linked to demo sale
+STOCK-001062,2026-06-30,PROD-000501,Caramel Cream,Stock Sold,32.0,SALE-2026-000012,Safiya Kabiru,Demo Administrator,Linked to demo sale
+STOCK-001063,2026-07-24,PROD-000207,Butter Delight,Stock Sold,39.0,SALE-2026-000013,Usman Tanko,Demo Administrator,Linked to demo sale
+STOCK-001064,2026-07-12,PROD-000413,Chocolate Delight,Stock Sold,39.0,SALE-2026-000014,Usman Danjuma,Demo Administrator,Linked to demo sale
+STOCK-001065,2026-06-19,PROD-000444,Chocolate Delight,Stock Sold,34.0,SALE-2026-000015,Bello Umar,Demo Administrator,Linked to demo sale
+STOCK-001066,2026-08-12,PROD-000150,Chocolate Delight,Stock Sold,35.0,SALE-2026-000016,Abubakar Lawal,Demo Administrator,Linked to demo sale
+STOCK-001067,2026-06-17,PROD-000125,Vanilla Cream,Stock Sold,21.0,SALE-2026-000017,Hassan Bello,Demo Administrator,Linked to demo sale
+STOCK-001068,2026-07-31,PROD-000285,Golden Crunch,Stock Sold,18.0,SALE-2026-000018,Zainab Usman,Demo Administrator,Linked to demo sale
+STOCK-001069,2026-08-07,PROD-000487,Milk Crunch,Stock Sold,27.0,SALE-2026-000019,Hassan Tanko,Demo Administrator,Linked to demo sale
+STOCK-001070,2026-08-06,PROD-000309,Vanilla Cream,Stock Sold,16.0,SALE-2026-000020,Rukayya Aliyu,Demo Administrator,Linked to demo sale
+STOCK-001071,2026-07-18,PROD-000443,Classic Cream,Stock Sold,17.0,SALE-2026-000021,Musa Shehu,Demo Administrator,Linked to demo sale
+STOCK-001072,2026-06-21,PROD-000221,Butter Delight,Stock Sold,43.0,SALE-2026-000022,Asma'u Tanko,Demo Administrator,Linked to demo sale
+STOCK-001073,2026-06-30,PROD-000339,Classic Cream,Stock Sold,40.0,SALE-2026-000023,Khadija Usman,Demo Administrator,Linked to demo sale
+STOCK-001074,2026-07-28,PROD-000082,Rich Chocolate,Stock Sold,34.0,SALE-2026-000024,Umar Ibrahim,Demo Administrator,Linked to demo sale
+STOCK-001075,2026-06-26,PROD-000317,Cocoa Sandwich,Stock Sold,44.0,SALE-2026-000025,Hadiza Aliyu,Demo Administrator,Linked to demo sale
+STOCK-001076,2026-08-12,PROD-000298,Chocolate Delight,Stock Sold,10.0,SALE-2026-000026,Maryam Bello,Demo Administrator,Linked to demo sale
+STOCK-001077,2026-07-24,PROD-000397,Premium Wafer,Stock Sold,38.0,SALE-2026-000027,Usman Yusuf,Demo Administrator,Linked to demo sale
+STOCK-001078,2026-07-19,PROD-000123,Cocoa Sandwich,Stock Sold,22.0,SALE-2026-000028,Ibrahim Ibrahim,Demo Administrator,Linked to demo sale
+STOCK-001079,2026-07-12,PROD-000254,Classic Crackers,Stock Sold,25.0,SALE-2026-000029,Abubakar Usman,Demo Administrator,Linked to demo sale
+STOCK-001080,2026-07-06,PROD-000014,Classic Crackers,Stock Sold,23.0,SALE-2026-000030,Ibrahim Aliyu,Demo Administrator,Linked to demo sale
+STOCK-001081,2026-06-26,PROD-000286,Honey Crunch,Stock Sold,34.0,SALE-2026-000031,Asma'u Hassan,Demo Administrator,Linked to demo sale
+STOCK-001082,2026-07-28,PROD-000408,Premium Wafer,Stock Sold,5.0,SALE-2026-000032,Abubakar Shehu,Demo Administrator,Linked to demo sale
+STOCK-001083,2026-07-06,PROD-000414,Coconut Crunch,Stock Sold,40.0,SALE-2026-000033,Umar Garba,Demo Administrator,Linked to demo sale
+STOCK-001084,2026-08-14,PROD-000057,Family Pack,Stock Sold,6.0,SALE-2026-000034,Khadija Hassan,Demo Administrator,Linked to demo sale
+STOCK-001085,2026-07-05,PROD-000020,Vanilla Cream,Stock Sold,6.0,SALE-2026-000035,Aliyu Sani,Demo Administrator,Linked to demo sale
+STOCK-001086,2026-07-08,PROD-000455,Honey Crunch,Stock Sold,8.0,SALE-2026-000036,Hadiza Bello,Demo Administrator,Linked to demo sale
+STOCK-001087,2026-07-14,PROD-000225,Vanilla Cream,Stock Sold,7.0,SALE-2026-000037,Ibrahim Mohammed,Demo Administrator,Linked to demo sale
+STOCK-001088,2026-08-02,PROD-000320,Classic Crackers,Stock Sold,38.0,SALE-2026-000038,Asma'u Tanko,Demo Administrator,Linked to demo sale
+STOCK-001089,2026-07-12,PROD-000431,Milk Crunch,Stock Sold,30.0,SALE-2026-000039,Aliyu Hassan,Demo Administrator,Linked to demo sale
+STOCK-001090,2026-07-20,PROD-000365,Butter Delight,Stock Sold,10.0,SALE-2026-000040,Khadija Usman,Demo Administrator,Linked to demo sale
+STOCK-001091,2026-08-13,PROD-000524,Vanilla Cream,Stock Sold,20.0,SALE-2026-000041,Khadija Mohammed,Demo Administrator,Linked to demo sale
+STOCK-001092,2026-08-14,PROD-000004,Cocoa Sandwich,Stock Sold,5.0,SALE-2026-000042,Safiya Hassan,Demo Administrator,Linked to demo sale
+STOCK-001093,2026-08-02,PROD-000089,Chocolate Delight,Stock Sold,32.0,SALE-2026-000043,Abubakar Aliyu,Demo Administrator,Linked to demo sale
+STOCK-001094,2026-06-17,PROD-000183,Honey Crunch,Stock Sold,42.0,SALE-2026-000044,Ahmed Mohammed,Demo Administrator,Linked to demo sale
+STOCK-001095,2026-06-19,PROD-000429,Rich Chocolate,Stock Sold,33.0,SALE-2026-000045,Fatima Ahmad,Demo Administrator,Linked to demo sale
+STOCK-001096,2026-08-09,PROD-000461,Cocoa Sandwich,Stock Sold,35.0,SALE-2026-000046,Ibrahim Mohammed,Demo Administrator,Linked to demo sale
+STOCK-001097,2026-07-07,PROD-000174,Cocoa Sandwich,Stock Sold,18.0,SALE-2026-000047,Muhammad Tanko,Demo Administrator,Linked to demo sale
+STOCK-001098,2026-08-02,PROD-000063,Caramel Cream,Stock Sold,13.0,SALE-2026-000048,Zainab Kabiru,Demo Administrator,Linked to demo sale
+STOCK-001099,2026-07-13,PROD-000126,Caramel Cream,Stock Sold,28.0,SALE-2026-000049,Abubakar Shehu,Demo Administrator,Linked to demo sale
+STOCK-001100,2026-06-20,PROD-000300,Vanilla Cream,Stock Sold,36.0,SALE-2026-000050,Abubakar Danjuma,Demo Administrator,Linked to demo sale
+STOCK-001101,2026-07-15,PROD-000322,Chocolate Delight,Stock Sold,21.0,SALE-2026-000051,Rukayya Shehu,Demo Administrator,Linked to demo sale
+STOCK-001102,2026-07-20,PROD-000338,Classic Crackers,Stock Sold,11.0,SALE-2026-000052,Hassan Suleiman,Demo Administrator,Linked to demo sale
+STOCK-001103,2026-06-25,PROD-000325,Vanilla Cream,Stock Sold,42.0,SALE-2026-000053,Aliyu Mohammed,Demo Administrator,Linked to demo sale
+STOCK-001104,2026-07-10,PROD-000142,Coconut Crunch,Stock Sold,22.0,SALE-2026-000054,Ibrahim Ibrahim,Demo Administrator,Linked to demo sale
+STOCK-001105,2026-07-02,PROD-000386,Strawberry Cream,Stock Sold,21.0,SALE-2026-000055,Bello Musa,Demo Administrator,Linked to demo sale
+STOCK-001106,2026-07-20,PROD-000175,Family Pack,Stock Sold,41.0,SALE-2026-000056,Hussaini Usman,Demo Administrator,Linked to demo sale
+STOCK-001107,2026-06-25,PROD-000016,Rich Chocolate,Stock Sold,38.0,SALE-2026-000057,Usman Aliyu,Demo Administrator,Linked to demo sale
+STOCK-001108,2026-07-26,PROD-000159,Honey Crunch,Stock Sold,6.0,SALE-2026-000058,Muhammad Kabiru,Demo Administrator,Linked to demo sale
+STOCK-001109,2026-08-04,PROD-000479,Butter Delight,Stock Sold,6.0,SALE-2026-000059,Zainab Yusuf,Demo Administrator,Linked to demo sale
+STOCK-001110,2026-08-11,PROD-000461,Cocoa Sandwich,Stock Sold,5.0,SALE-2026-000060,Khadija Ibrahim,Demo Administrator,Linked to demo sale
+STOCK-001111,2026-08-07,PROD-000056,Chocolate Delight,Stock Sold,11.0,SALE-2026-000061,Safiya Kabiru,Demo Administrator,Linked to demo sale
+STOCK-001112,2026-07-05,PROD-000352,Classic Crackers,Stock Sold,16.0,SALE-2026-000062,Musa Lawal,Demo Administrator,Linked to demo sale
+STOCK-001113,2026-06-19,PROD-000200,Classic Crackers,Stock Sold,35.0,SALE-2026-000063,Hadiza Suleiman,Demo Administrator,Linked to demo sale
+STOCK-001114,2026-07-01,PROD-000524,Vanilla Cream,Stock Sold,13.0,SALE-2026-000064,Asma'u Suleiman,Demo Administrator,Linked to demo sale
+STOCK-001115,2026-07-20,PROD-000180,Rich Chocolate,Stock Sold,11.0,SALE-2026-000065,Fatima Umar,Demo Administrator,Linked to demo sale
+STOCK-001116,2026-07-20,PROD-000467,Caramel Cream,Stock Sold,7.0,SALE-2026-000066,Hadiza Abubakar,Demo Administrator,Linked to demo sale
+STOCK-001117,2026-08-01,PROD-000403,Milk Crunch,Stock Sold,43.0,SALE-2026-000067,Rukayya Lawal,Demo Administrator,Linked to demo sale
+STOCK-001118,2026-07-31,PROD-000503,Cocoa Sandwich,Stock Sold,23.0,SALE-2026-000068,Asma'u Danjuma,Demo Administrator,Linked to demo sale
+STOCK-001119,2026-08-12,PROD-000207,Butter Delight,Stock Sold,28.0,SALE-2026-000069,Musa Shehu,Demo Administrator,Linked to demo sale
+STOCK-001120,2026-06-30,PROD-000447,Caramel Cream,Stock Sold,17.0,SALE-2026-000070,Zainab Mohammed,Demo Administrator,Linked to demo sale
+STOCK-001121,2026-06-30,PROD-000075,Vanilla Cream,Stock Sold,12.0,SALE-2026-000071,Zainab Ahmad,Demo Administrator,Linked to demo sale
+STOCK-001122,2026-07-30,PROD-000075,Vanilla Cream,Stock Sold,31.0,SALE-2026-000072,Yusuf Ibrahim,Demo Administrator,Linked to demo sale
+STOCK-001123,2026-08-12,PROD-000017,Rich Chocolate,Stock Sold,11.0,SALE-2026-000073,Hadiza Umar,Demo Administrator,Linked to demo sale
+STOCK-001124,2026-08-08,PROD-000079,Butter Delight,Stock Sold,7.0,SALE-2026-000074,Maryam Garba,Demo Administrator,Linked to demo sale
+STOCK-001125,2026-08-05,PROD-000360,Cocoa Sandwich,Stock Sold,5.0,SALE-2026-000075,Abubakar Abubakar,Demo Administrator,Linked to demo sale
+STOCK-001126,2026-06-22,PROD-000002,Coconut Crunch,Stock Sold,28.0,SALE-2026-000076,Rukayya Mohammed,Demo Administrator,Linked to demo sale
+STOCK-001127,2026-07-11,PROD-000257,Butter Delight,Stock Sold,12.0,SALE-2026-000077,Abdullahi Garba,Demo Administrator,Linked to demo sale
+STOCK-001128,2026-07-09,PROD-000137,Honey Crunch,Stock Sold,18.0,SALE-2026-000078,Aliyu Musa,Demo Administrator,Linked to demo sale
+STOCK-001129,2026-08-10,PROD-000384,Classic Cream,Stock Sold,13.0,SALE-2026-000079,Sani Hassan,Demo Administrator,Linked to demo sale
+STOCK-001130,2026-08-03,PROD-000222,Family Pack,Stock Sold,38.0,SALE-2026-000080,Aliyu Kabiru,Demo Administrator,Linked to demo sale
+STOCK-001131,2026-06-25,PROD-000498,Chocolate Delight,Stock Sold,30.0,SALE-2026-000081,Khadija Tanko,Demo Administrator,Linked to demo sale
+STOCK-001132,2026-08-14,PROD-000313,Classic Crackers,Stock Sold,15.0,SALE-2026-000082,Maryam Sani,Demo Administrator,Linked to demo sale
+STOCK-001133,2026-07-01,PROD-000294,Chocolate Delight,Stock Sold,14.0,SALE-2026-000083,Khadija Garba,Demo Administrator,Linked to demo sale
+STOCK-001134,2026-07-18,PROD-000073,Vanilla Cream,Stock Sold,45.0,SALE-2026-000084,Aisha Danjuma,Demo Administrator,Linked to demo sale
+STOCK-001135,2026-06-19,PROD-000318,Golden Crunch,Stock Sold,21.0,SALE-2026-000085,Aisha Sani,Demo Administrator,Linked to demo sale
+STOCK-001136,2026-08-12,PROD-000479,Butter Delight,Stock Sold,10.0,SALE-2026-000086,Aliyu Mohammed,Demo Administrator,Linked to demo sale
+STOCK-001137,2026-07-20,PROD-000371,Butter Delight,Stock Sold,26.0,SALE-2026-000087,Ahmed Usman,Demo Administrator,Linked to demo sale
+STOCK-001138,2026-07-20,PROD-000465,Chocolate Delight,Stock Sold,5.0,SALE-2026-000088,Musa Ibrahim,Demo Administrator,Linked to demo sale
+STOCK-001139,2026-07-18,PROD-000226,Rich Chocolate,Stock Sold,19.0,SALE-2026-000089,Fatima Sani,Demo Administrator,Linked to demo sale
+STOCK-001140,2026-06-16,PROD-000399,Rich Chocolate,Stock Sold,39.0,SALE-2026-000090,Abdullahi Suleiman,Demo Administrator,Linked to demo sale
+STOCK-001141,2026-08-14,PROD-000289,Chocolate Delight,Stock Sold,21.0,SALE-2026-000091,Hassan Musa,Demo Administrator,Linked to demo sale
+STOCK-001142,2026-07-26,PROD-000250,Golden Crunch,Stock Sold,34.0,SALE-2026-000092,Aisha Abubakar,Demo Administrator,Linked to demo sale
+STOCK-001143,2026-07-19,PROD-000131,Cocoa Sandwich,Stock Sold,31.0,SALE-2026-000093,Bello Usman,Demo Administrator,Linked to demo sale
+STOCK-001144,2026-07-15,PROD-000399,Rich Chocolate,Stock Sold,37.0,SALE-2026-000094,Maryam Ibrahim,Demo Administrator,Linked to demo sale
+STOCK-001145,2026-07-19,PROD-000060,Honey Crunch,Stock Sold,36.0,SALE-2026-000095,Rukayya Lawal,Demo Administrator,Linked to demo sale
+STOCK-001146,2026-06-19,PROD-000442,Classic Cream,Stock Sold,15.0,SALE-2026-000096,Sani Umar,Demo Administrator,Linked to demo sale
+STOCK-001147,2026-07-05,PROD-000420,Classic Cream,Stock Sold,41.0,SALE-2026-000097,Ahmed Tanko,Demo Administrator,Linked to demo sale
+STOCK-001148,2026-06-17,PROD-000091,Premium Wafer,Stock Sold,12.0,SALE-2026-000098,Hussaini Musa,Demo Administrator,Linked to demo sale
+STOCK-001149,2026-07-12,PROD-000418,Butter Delight,Stock Sold,6.0,SALE-2026-000099,Mustapha Shehu,Demo Administrator,Linked to demo sale
+STOCK-001150,2026-06-24,PROD-000172,Family Pack,Stock Sold,5.0,SALE-2026-000100,Sani Mohammed,Demo Administrator,Linked to demo sale
+STOCK-001151,2026-07-05,PROD-000149,Cocoa Sandwich,Stock Sold,44.0,SALE-2026-000101,Hauwa Aliyu,Demo Administrator,Linked to demo sale
+STOCK-001152,2026-07-14,PROD-000053,Honey Crunch,Stock Sold,29.0,SALE-2026-000102,Musa Lawal,Demo Administrator,Linked to demo sale
+STOCK-001153,2026-08-01,PROD-000479,Butter Delight,Stock Sold,33.0,SALE-2026-000103,Hassan Umar,Demo Administrator,Linked to demo sale
+STOCK-001154,2026-07-28,PROD-000170,Caramel Cream,Stock Sold,45.0,SALE-2026-000104,Muhammad Shehu,Demo Administrator,Linked to demo sale
+STOCK-001155,2026-07-01,PROD-000451,Butter Delight,Stock Sold,33.0,SALE-2026-000105,Zainab Ahmad,Demo Administrator,Linked to demo sale
+STOCK-001156,2026-08-09,PROD-000222,Family Pack,Stock Sold,23.0,SALE-2026-000106,Khadija Umar,Demo Administrator,Linked to demo sale
+STOCK-001157,2026-07-17,PROD-000450,Honey Crunch,Stock Sold,13.0,SALE-2026-000107,Abdullahi Usman,Demo Administrator,Linked to demo sale
+STOCK-001158,2026-06-20,PROD-000065,Classic Cream,Stock Sold,39.0,SALE-2026-000108,Yusuf Kabiru,Demo Administrator,Linked to demo sale
+STOCK-001159,2026-06-24,PROD-000222,Family Pack,Stock Sold,15.0,SALE-2026-000109,Muhammad Shehu,Demo Administrator,Linked to demo sale
+STOCK-001160,2026-08-06,PROD-000406,Caramel Cream,Stock Sold,37.0,SALE-2026-000110,Muhammad Hassan,Demo Administrator,Linked to demo sale
+STOCK-001161,2026-07-08,PROD-000171,Honey Crunch,Stock Sold,34.0,SALE-2026-000111,Abubakar Aliyu,Demo Administrator,Linked to demo sale
+STOCK-001162,2026-07-31,PROD-000122,Chocolate Delight,Stock Sold,16.0,SALE-2026-000112,Rukayya Hassan,Demo Administrator,Linked to demo sale
+STOCK-001163,2026-06-28,PROD-000093,Caramel Cream,Stock Sold,28.0,SALE-2026-000113,Umar Ibrahim,Demo Administrator,Linked to demo sale
+STOCK-001164,2026-06-18,PROD-000383,Butter Delight,Stock Sold,14.0,SALE-2026-000114,Sani Mohammed,Demo Administrator,Linked to demo sale
+STOCK-001165,2026-08-11,PROD-000302,Rich Chocolate,Stock Sold,15.0,SALE-2026-000115,Sani Ibrahim,Demo Administrator,Linked to demo sale
+STOCK-001166,2026-07-21,PROD-000508,Caramel Cream,Stock Sold,41.0,SALE-2026-000116,Hauwa Yusuf,Demo Administrator,Linked to demo sale
+STOCK-001167,2026-07-15,PROD-000500,Golden Crunch,Stock Sold,30.0,SALE-2026-000117,Asma'u Tanko,Demo Administrator,Linked to demo sale
+STOCK-001168,2026-07-27,PROD-000155,Premium Wafer,Stock Sold,32.0,SALE-2026-000118,Aisha Suleiman,Demo Administrator,Linked to demo sale
+STOCK-001169,2026-06-30,PROD-000265,Classic Cream,Stock Sold,25.0,SALE-2026-000119,Mustapha Ibrahim,Demo Administrator,Linked to demo sale
+STOCK-001170,2026-06-21,PROD-000080,Family Pack,Stock Sold,23.0,SALE-2026-000120,Ahmed Suleiman,Demo Administrator,Linked to demo sale
+STOCK-001171,2026-08-15,PROD-000006,Caramel Cream,Stock Sold,50.0,SALE-2026-000121,Asma'u Tanko,Demo Administrator,Stock issued against sale SALE-2026-000121

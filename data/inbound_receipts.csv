@@ -1,0 +1,4 @@
+Receipt ID,Expected Date,Supplier,Truck ID,Registration Number,Driver ID,Driver Name,Product ID,Product Name,Expected Quantity,Received Quantity,Variance,Unit,Status,Arrival Time,Received Time,Notes
+GRN-2026-000001,2026-08-15,Demo Biscuit Supplier Ltd,TRK-000005,KT-746-XY,DRV-000005,Demo Driver 5,PROD-000001,Chocolate Biscuit,1000,0,0,cartons,In Transit,2026-08-15 08:20:00,,Expected wholesale replenishment
+GRN-2026-000002,2026-08-16,Demo Biscuit Supplier Ltd,TRK-000003,KT-958-XY,DRV-000003,Demo Driver 3,PROD-000002,Cream Biscuit,750,0,0,cartons,Expected,,,Next inbound load
+GRN-2026-000003,2026-08-14,Demo Biscuit Supplier Ltd,TRK-000008,KT-918-XY,DRV-000008,Demo Driver 8,PROD-000003,Vanilla Biscuit,500,500,0,cartons,Received,2026-08-14 08:10:00,2026-08-14 10:15:00,Received in full

@@ -1,0 +1,9 @@
+Truck ID,Registration Number,Driver ID,Driver Name,Driver Phone,Capacity,Assigned Route,Status
+TRK-000001,KT-726-XY,DRV-000001,Demo Driver 1,08048517773,1200,Kano Central,Available
+TRK-000002,KT-947-XY,DRV-000002,Demo Driver 2,08086867385,1200,Sokoto North,Available
+TRK-000003,KT-958-XY,DRV-000003,Demo Driver 3,08095085570,1000,Kaduna Route,Available
+TRK-000004,KT-857-XY,DRV-000004,Demo Driver 4,08016172851,500,Zaria Route,On Delivery
+TRK-000005,KT-746-XY,DRV-000005,Demo Driver 5,08046026686,1000,Katsina Route,Available
+TRK-000006,KT-391-XY,DRV-000006,Demo Driver 6,08082923434,500,Gusau Route,Available
+TRK-000007,KT-214-XY,DRV-000007,Demo Driver 7,08037789687,750,Birnin Kebbi Route,Available
+TRK-000008,KT-918-XY,DRV-000008,Demo Driver 8,08060046570,1200,Jigawa Route,Available

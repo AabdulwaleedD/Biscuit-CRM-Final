@@ -1,0 +1,145 @@
+Audit ID,Date/Time,User,Action,Record Type,Record ID,Description
+AUD-000001,,Demo Administrator,SALE,,,Sale created — DEMO transaction 1
+AUD-000002,,Demo Administrator,EXPENDITURE,,,Expenditure submitted — DEMO transaction 2
+AUD-000003,,Demo Administrator,PAYMENT,,,Payment recorded — DEMO transaction 3
+AUD-000004,,Demo Administrator,EXPENDITURE,,,Expenditure submitted — DEMO transaction 4
+AUD-000005,,Demo Administrator,APPROVAL,,,Request approved — DEMO transaction 5
+AUD-000006,,Demo Administrator,INVOICE,,,Invoice generated — DEMO transaction 6
+AUD-000007,,Demo Administrator,EXPENDITURE,,,Expenditure submitted — DEMO transaction 7
+AUD-000008,,Demo Administrator,SALE,,,Sale created — DEMO transaction 8
+AUD-000009,,Demo Administrator,DELIVERY,,,Delivery dispatched — DEMO transaction 9
+AUD-000010,,Demo Administrator,STOCK,,,Inventory updated — DEMO transaction 10
+AUD-000011,,Demo Administrator,DELIVERY,,,Delivery dispatched — DEMO transaction 11
+AUD-000012,,Demo Administrator,INVOICE,,,Invoice generated — DEMO transaction 12
+AUD-000013,,Demo Administrator,STOCK,,,Inventory updated — DEMO transaction 13
+AUD-000014,,Demo Administrator,EXPENDITURE,,,Expenditure submitted — DEMO transaction 14
+AUD-000015,,Demo Administrator,EXPENDITURE,,,Expenditure submitted — DEMO transaction 15
+AUD-000016,,Demo Administrator,PAYMENT,,,Payment recorded — DEMO transaction 16
+AUD-000017,,Demo Administrator,SALE,,,Sale created — DEMO transaction 17
+AUD-000018,,Demo Administrator,STOCK,,,Inventory updated — DEMO transaction 18
+AUD-000019,,Demo Administrator,INVOICE,,,Invoice generated — DEMO transaction 19
+AUD-000020,,Demo Administrator,SALE,,,Sale created — DEMO transaction 20
+AUD-000021,,Demo Administrator,EXPENDITURE,,,Expenditure submitted — DEMO transaction 21
+AUD-000022,,Demo Administrator,PAYMENT,,,Payment recorded — DEMO transaction 22
+AUD-000023,,Demo Administrator,EXPENDITURE,,,Expenditure submitted — DEMO transaction 23
+AUD-000024,,Demo Administrator,DELIVERY,,,Delivery dispatched — DEMO transaction 24
+AUD-000025,,Demo Administrator,STOCK,,,Inventory updated — DEMO transaction 25
+AUD-000026,,Demo Administrator,SALE,,,Sale created — DEMO transaction 26
+AUD-000027,,Demo Administrator,INVOICE,,,Invoice generated — DEMO transaction 27
+AUD-000028,,Demo Administrator,STOCK,,,Inventory updated — DEMO transaction 28
+AUD-000029,,Demo Administrator,PAYMENT,,,Payment recorded — DEMO transaction 29
+AUD-000030,,Demo Administrator,EXPENDITURE,,,Expenditure submitted — DEMO transaction 30
+AUD-000031,,Demo Administrator,SALE,,,Sale created — DEMO transaction 31
+AUD-000032,,Demo Administrator,INVOICE,,,Invoice generated — DEMO transaction 32
+AUD-000033,,Demo Administrator,SALE,,,Sale created — DEMO transaction 33
+AUD-000034,,Demo Administrator,EXPENDITURE,,,Expenditure submitted — DEMO transaction 34
+AUD-000035,,Demo Administrator,PAYMENT,,,Payment recorded — DEMO transaction 35
+AUD-000036,,Demo Administrator,DELIVERY,,,Delivery dispatched — DEMO transaction 36
+AUD-000037,,Demo Administrator,PAYMENT,,,Payment recorded — DEMO transaction 37
+AUD-000038,,Demo Administrator,EXPENDITURE,,,Expenditure submitted — DEMO transaction 38
+AUD-000039,,Demo Administrator,EXPENDITURE,,,Expenditure submitted — DEMO transaction 39
+AUD-000040,,Demo Administrator,PAYMENT,,,Payment recorded — DEMO transaction 40
+AUD-000041,,Demo Administrator,INVOICE,,,Invoice generated — DEMO transaction 41
+AUD-000042,,Demo Administrator,PAYMENT,,,Payment recorded — DEMO transaction 42
+AUD-000043,,Demo Administrator,SALE,,,Sale created — DEMO transaction 43
+AUD-000044,,Demo Administrator,EXPENDITURE,,,Expenditure submitted — DEMO transaction 44
+AUD-000045,,Demo Administrator,EXPENDITURE,,,Expenditure submitted — DEMO transaction 45
+AUD-000046,,Demo Administrator,DELIVERY,,,Delivery dispatched — DEMO transaction 46
+AUD-000047,,Demo Administrator,APPROVAL,,,Request approved — DEMO transaction 47
+AUD-000048,,Demo Administrator,APPROVAL,,,Request approved — DEMO transaction 48
+AUD-000049,,Demo Administrator,PAYMENT,,,Payment recorded — DEMO transaction 49
+AUD-000050,,Demo Administrator,STOCK,,,Inventory updated — DEMO transaction 50
+AUD-000051,,Demo Administrator,EXPENDITURE,,,Expenditure submitted — DEMO transaction 51
+AUD-000052,,Demo Administrator,PAYMENT,,,Payment recorded — DEMO transaction 52
+AUD-000053,,Demo Administrator,EXPENDITURE,,,Expenditure submitted — DEMO transaction 53
+AUD-000054,,Demo Administrator,PAYMENT,,,Payment recorded — DEMO transaction 54
+AUD-000055,,Demo Administrator,STOCK,,,Inventory updated — DEMO transaction 55
+AUD-000056,,Demo Administrator,INVOICE,,,Invoice generated — DEMO transaction 56
+AUD-000057,,Demo Administrator,APPROVAL,,,Request approved — DEMO transaction 57
+AUD-000058,,Demo Administrator,SALE,,,Sale created — DEMO transaction 58
+AUD-000059,,Demo Administrator,PAYMENT,,,Payment recorded — DEMO transaction 59
+AUD-000060,,Demo Administrator,INVOICE,,,Invoice generated — DEMO transaction 60
+AUD-000061,,Demo Administrator,EXPENDITURE,,,Expenditure submitted — DEMO transaction 61
+AUD-000062,,Demo Administrator,APPROVAL,,,Request approved — DEMO transaction 62
+AUD-000063,,Demo Administrator,APPROVAL,,,Request approved — DEMO transaction 63
+AUD-000064,,Demo Administrator,STOCK,,,Inventory updated — DEMO transaction 64
+AUD-000065,,Demo Administrator,SALE,,,Sale created — DEMO transaction 65
+AUD-000066,,Demo Administrator,EXPENDITURE,,,Expenditure submitted — DEMO transaction 66
+AUD-000067,,Demo Administrator,APPROVAL,,,Request approved — DEMO transaction 67
+AUD-000068,,Demo Administrator,APPROVAL,,,Request approved — DEMO transaction 68
+AUD-000069,,Demo Administrator,INVOICE,,,Invoice generated — DEMO transaction 69
+AUD-000070,,Demo Administrator,EXPENDITURE,,,Expenditure submitted — DEMO transaction 70
+AUD-000071,,Demo Administrator,PAYMENT,,,Payment recorded — DEMO transaction 71
+AUD-000072,,Demo Administrator,INVOICE,,,Invoice generated — DEMO transaction 72
+AUD-000073,,Demo Administrator,APPROVAL,,,Request approved — DEMO transaction 73
+AUD-000074,,Demo Administrator,SALE,,,Sale created — DEMO transaction 74
+AUD-000075,,Demo Administrator,STOCK,,,Inventory updated — DEMO transaction 75
+AUD-000076,,Demo Administrator,SALE,,,Sale created — DEMO transaction 76
+AUD-000077,,Demo Administrator,APPROVAL,,,Request approved — DEMO transaction 77
+AUD-000078,,Demo Administrator,INVOICE,,,Invoice generated — DEMO transaction 78
+AUD-000079,,Demo Administrator,EXPENDITURE,,,Expenditure submitted — DEMO transaction 79
+AUD-000080,,Demo Administrator,STOCK,,,Inventory updated — DEMO transaction 80
+AUD-000081,,Demo Administrator,APPROVAL,,,Request approved — DEMO transaction 81
+AUD-000082,,Demo Administrator,PAYMENT,,,Payment recorded — DEMO transaction 82
+AUD-000083,,Demo Administrator,SALE,,,Sale created — DEMO transaction 83
+AUD-000084,,Demo Administrator,PAYMENT,,,Payment recorded — DEMO transaction 84
+AUD-000085,,Demo Administrator,EXPENDITURE,,,Expenditure submitted — DEMO transaction 85
+AUD-000086,,Demo Administrator,DELIVERY,,,Delivery dispatched — DEMO transaction 86
+AUD-000087,,Demo Administrator,SALE,,,Sale created — DEMO transaction 87
+AUD-000088,,Demo Administrator,EXPENDITURE,,,Expenditure submitted — DEMO transaction 88
+AUD-000089,,Demo Administrator,SALE,,,Sale created — DEMO transaction 89
+AUD-000090,,Demo Administrator,SALE,,,Sale created — DEMO transaction 90
+AUD-000091,,Demo Administrator,EXPENDITURE,,,Expenditure submitted — DEMO transaction 91
+AUD-000092,,Demo Administrator,PAYMENT,,,Payment recorded — DEMO transaction 92
+AUD-000093,,Demo Administrator,PAYMENT,,,Payment recorded — DEMO transaction 93
+AUD-000094,,Demo Administrator,STOCK,,,Inventory updated — DEMO transaction 94
+AUD-000095,,Demo Administrator,INVOICE,,,Invoice generated — DEMO transaction 95
+AUD-000096,,Demo Administrator,INVOICE,,,Invoice generated — DEMO transaction 96
+AUD-000097,,Demo Administrator,EXPENDITURE,,,Expenditure submitted — DEMO transaction 97
+AUD-000098,,Demo Administrator,DELIVERY,,,Delivery dispatched — DEMO transaction 98
+AUD-000099,,Demo Administrator,DELIVERY,,,Delivery dispatched — DEMO transaction 99
+AUD-000100,,Demo Administrator,INVOICE,,,Invoice generated — DEMO transaction 100
+AUD-000101,2026-08-15 12:03:07,Demo Administrator,AUTO ARCHIVE,Record Archive,AUTO-20260815120307,Automatically archived 257 completed operational record(s).
+AUD-000102,2026-08-15 13:04:24,Demo Administrator,APPROVE,Expenditure,EXP-2026-000019,Request approved by Demo Administrator. Comment: 
+AUD-000103,2026-08-15 13:04:24,Demo Administrator,APPROVE EXPENDITURE,Expenditure,EXP-2026-000019,"Expenditure approved for ₦204,000.00 out of ₦204,000.00 requested."
+AUD-000104,2026-08-15 13:04:29,Demo Administrator,APPROVE,Expenditure,EXP-2026-000002,Request approved by Demo Administrator. Comment: 
+AUD-000105,2026-08-15 13:04:29,Demo Administrator,APPROVE EXPENDITURE,Expenditure,EXP-2026-000002,"Expenditure approved for ₦115,000.00 out of ₦115,000.00 requested."
+AUD-000106,2026-08-15 13:04:32,Demo Administrator,APPROVE,Expenditure,EXP-2026-000003,Request approved by Demo Administrator. Comment: 
+AUD-000107,2026-08-15 13:04:32,Demo Administrator,APPROVE EXPENDITURE,Expenditure,EXP-2026-000003,"Expenditure approved for ₦370,000.00 out of ₦370,000.00 requested."
+AUD-000108,2026-08-15 13:06:01,Demo Administrator,APPROVE,Expenditure,EXP-2026-000005,Request approved by Demo Administrator. Comment: 
+AUD-000109,2026-08-15 13:06:01,Demo Administrator,APPROVE EXPENDITURE,Expenditure,EXP-2026-000005,"Expenditure approved for ₦342,000.00 out of ₦342,000.00 requested."
+AUD-000110,2026-08-15 13:06:17,Demo Administrator,CREATE,Stock Request,REQ-2026-000011,Stock Request submitted for approval. Description: Caramel Cream — 
+AUD-000111,2026-08-15 13:06:28,Demo Administrator,CREATE,Stock Request,REQ-2026-000012,Stock Request submitted for approval. Description: Caramel Cream — 
+AUD-000112,2026-08-15 13:06:46,Demo Administrator,APPROVE,Stock Request,REQ-2026-000012,Request approved by Demo Administrator. Comment: 
+AUD-000113,2026-08-15 13:08:51,Demo Administrator,CREATE,Sale,SALE-2026-000121,"Sale created for Asma'u Tanko with total value ₦165,000.00"
+AUD-000114,2026-08-15 13:08:51,Demo Administrator,CREATE,Invoice,INV-2026-000121,"Invoice INV-2026-000121 generated from sale SALE-2026-000121 for Asma'u Tanko. Total: ₦165,000.00"
+AUD-000115,2026-08-15 13:08:51,Demo Administrator,AUTO ARCHIVE,Record Archive,AUTO-20260815130851,Automatically archived 2 completed operational record(s).
+AUD-000116,2026-08-15 13:09:22,Demo Administrator,PAYMENT,Invoice,INV-2026-000121,"Payment of ₦165,000.00 received for invoice INV-2026-000121. Remaining balance: ₦0.00"
+AUD-000117,2026-08-15 13:09:27,Demo Administrator,PAYMENT,Invoice,INV-2026-000091,"Payment of ₦38,050.00 received for invoice INV-2026-000091. Remaining balance: ₦0.00"
+AUD-000118,2026-08-15 13:09:32,Demo Administrator,PAYMENT,Invoice,INV-2026-000092,"Payment of ₦270,300.00 received for invoice INV-2026-000092. Remaining balance: ₦0.00"
+AUD-000119,2026-08-15 13:09:47,Demo Administrator,PAYMENT,Invoice,INV-2026-000117,"Payment of ₦210,000.00 received for invoice INV-2026-000117. Remaining balance: ₦0.00"
+AUD-000120,2026-08-15 13:09:56,Demo Administrator,PAYMENT,Invoice,INV-2026-000093,"Payment of ₦132,300.00 received for invoice INV-2026-000093. Remaining balance: ₦0.00"
+AUD-000121,2026-08-15 13:10:01,Demo Administrator,PAYMENT,Invoice,INV-2026-000094,"Payment of ₦148,950.00 received for invoice INV-2026-000094. Remaining balance: ₦0.00"
+AUD-000122,2026-08-15 13:10:04,Demo Administrator,PAYMENT,Invoice,INV-2026-000095,"Payment of ₦68,400.00 received for invoice INV-2026-000095. Remaining balance: ₦0.00"
+AUD-000123,2026-08-15 13:10:05,Demo Administrator,PAYMENT,Invoice,INV-2026-000096,"Payment of ₦122,250.00 received for invoice INV-2026-000096. Remaining balance: ₦0.00"
+AUD-000124,2026-08-15 13:10:07,Demo Administrator,PAYMENT,Invoice,INV-2026-000097,"Payment of ₦239,050.00 received for invoice INV-2026-000097. Remaining balance: ₦0.00"
+AUD-000125,2026-08-15 13:10:12,Demo Administrator,PAYMENT,Invoice,INV-2026-000098,"Payment of ₦45,600.00 received for invoice INV-2026-000098. Remaining balance: ₦0.00"
+AUD-000126,2026-08-15 13:10:13,Demo Administrator,PAYMENT,Invoice,INV-2026-000099,"Payment of ₦10,500.00 received for invoice INV-2026-000099. Remaining balance: ₦0.00"
+AUD-000127,2026-08-15 13:10:15,Demo Administrator,PAYMENT,Invoice,INV-2026-000100,"Payment of ₦8,750.00 received for invoice INV-2026-000100. Remaining balance: ₦0.00"
+AUD-000128,2026-08-15 13:10:17,Demo Administrator,PAYMENT,Invoice,INV-2026-000101,"Payment of ₦282,450.00 received for invoice INV-2026-000101. Remaining balance: ₦0.00"
+AUD-000129,2026-08-15 13:10:19,Demo Administrator,PAYMENT,Invoice,INV-2026-000102,"Payment of ₦85,550.00 received for invoice INV-2026-000102. Remaining balance: ₦0.00"
+AUD-000130,2026-08-15 13:10:21,Demo Administrator,PAYMENT,Invoice,INV-2026-000103,"Payment of ₦192,400.00 received for invoice INV-2026-000103. Remaining balance: ₦0.00"
+AUD-000131,2026-08-15 13:10:24,Demo Administrator,PAYMENT,Invoice,INV-2026-000104,"Payment of ₦312,750.00 received for invoice INV-2026-000104. Remaining balance: ₦0.00"
+AUD-000132,2026-08-15 13:10:26,Demo Administrator,PAYMENT,Invoice,INV-2026-000105,"Payment of ₦301,950.00 received for invoice INV-2026-000105. Remaining balance: ₦0.00"
+AUD-000133,2026-08-15 13:10:29,Demo Administrator,PAYMENT,Invoice,INV-2026-000106,"Payment of ₦333,600.00 received for invoice INV-2026-000106. Remaining balance: ₦0.00"
+AUD-000134,2026-08-15 13:10:31,Demo Administrator,PAYMENT,Invoice,INV-2026-000107,"Payment of ₦160,500.00 received for invoice INV-2026-000107. Remaining balance: ₦0.00"
+AUD-000135,2026-08-15 13:10:33,Demo Administrator,PAYMENT,Invoice,INV-2026-000108,"Payment of ₦510,900.00 received for invoice INV-2026-000108. Remaining balance: ₦0.00"
+AUD-000136,2026-08-15 13:10:51,Demo Administrator,PAYMENT,Invoice,INV-2026-000109,"Payment of ₦222,000.00 received for invoice INV-2026-000109. Remaining balance: ₦0.00"
+AUD-000137,2026-08-15 13:10:55,Demo Administrator,PAYMENT,Invoice,INV-2026-000110,"Payment of ₦229,700.00 received for invoice INV-2026-000110. Remaining balance: ₦0.00"
+AUD-000138,2026-08-15 13:11:24,Demo Administrator,APPROVE,Stock Request,REQ-2026-000011,Request approved by Demo Administrator. Comment: 
+AUD-000139,2026-08-15 13:11:27,Demo Administrator,APPROVE,Expenditure,EXP-2026-000007,Request approved by Demo Administrator. Comment: 
+AUD-000140,2026-08-15 13:11:27,Demo Administrator,APPROVE EXPENDITURE,Expenditure,EXP-2026-000007,"Expenditure approved for ₦212,000.00 out of ₦212,000.00 requested."
+AUD-000141,2026-08-15 13:11:29,Demo Administrator,APPROVE,Expenditure,EXP-2026-000011,Request approved by Demo Administrator. Comment: 
+AUD-000142,2026-08-15 13:11:29,Demo Administrator,APPROVE EXPENDITURE,Expenditure,EXP-2026-000011,"Expenditure approved for ₦146,000.00 out of ₦146,000.00 requested."
+AUD-000143,2026-08-15 13:11:31,Demo Administrator,APPROVE,Expenditure,EXP-2026-000012,Request approved by Demo Administrator. Comment: 
+AUD-000144,2026-08-15 13:11:31,Demo Administrator,APPROVE EXPENDITURE,Expenditure,EXP-2026-000012,"Expenditure approved for ₦205,000.00 out of ₦205,000.00 requested."
